@@ -1,13 +1,12 @@
 # JSON_XML_Parser
 
-Task List
-[] Create Config File From JSON or XML with type annotation - Saachi 
-[] Parse data - Jahnavi and Shobha
-[] Connect to db (mongodb) - Shobha
-        [] Store Data in DB
+##Task List
+[] Create Config File From JSON or XML with type annotation - Saachi <br>
+[] Parse data - Jahnavi and Shobha <br>
+[] Connect to db (mongodb) - Shobha <br>
+        [] Store Data in DB <br>
 
 UI - Next Half 
-[] Create basic for File upload
-[] Show Database Table on Click once file is uploaded
-
-[] Take Data Related to the company
+[] Create basic for File upload <br>
+[] Show Database Table on Click once file is uploaded <br>
+[] Take Data Related to the company <br>
