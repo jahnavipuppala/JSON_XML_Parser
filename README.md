@@ -9,4 +9,4 @@
 UI - Next Half 
 [] Create basic for File upload <br>
 [] Show Database Table on Click once file is uploaded <br>
-[] Take Data Related to the company <br>
+[] Take Data Related to the company - Jahnavi - **COMPLETED** <br>
