@@ -1,0 +1,43 @@
+{
+  "company": "DMI Finance",
+  "data": [
+    {
+      "customer_id": 1001,
+      "customer_name": "John Doe",
+      "account_number": "1234567890",
+      "account_type": "Savings",
+      "balance": 10000.00,
+      "transactions": [
+        {
+          "date": "2024-04-01",
+          "description": "Deposit",
+          "amount": 5000.00
+        },
+        {
+          "date": "2024-04-04",
+          "description": "ATM Withdrawal",
+          "amount": 200.00
+        }
+      ]
+    },
+    {
+      "customer_id": 1002,
+      "customer_name": "Jane Smith",
+      "account_number": "9876543210",
+      "account_type": "Checking",
+      "balance": 25000.00,
+      "transactions": [
+        {
+          "date": "2024-04-02",
+          "description": "Bill Payment",
+          "amount": 1000.00
+        },
+        {
+          "date": "2024-04-04",
+          "description": "ACH Transfer",
+          "amount": 5000.00
+        }
+      ]
+    }
+  ]
+}

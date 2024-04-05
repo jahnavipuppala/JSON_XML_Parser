@@ -1,0 +1,68 @@
+{
+  "company": "DMI Finance",
+  "branches": [
+    {
+      "branch_id": "BLR001",
+      "location": "Bangalore",
+      "departments": [
+        {
+          "department_name": "Customer Service",
+          "employees": [
+            {
+              "employee_id": 101,
+              "name": "John Doe",
+              "designation": "Customer Service Representative",
+              "contact_info": {
+                "phone": "+91 80 12345678",
+                "email": "[email address removed]"
+              }
+            },
+            {
+              "employee_id": 102,
+              "name": "Jane Smith",
+              "designation": "Loan Officer",
+              "contact_info": {
+                "phone": "+91 80 87654321",
+                "email": "[email address removed]"
+              }
+            }
+          ]
+        },
+        {
+          "department_name": "Accounts",
+          "employees": [
+            {
+              "employee_id": 103,
+              "name": "Michael Brown",
+              "designation": "Accountant",
+              "contact_info": {
+                "phone": "+91 80 98765432",
+                "email": "[email address removed]"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "branch_id": "CHN002",
+      "location": "Chennai",
+      "departments": [
+        {
+          "department_name": "Sales",
+          "employees": [
+            {
+              "employee_id": 104,
+              "name": "David Lee",
+              "designation": "Sales Manager",
+              "contact_info": {
+                "phone": "+91 44 43215678",
+                "email": "[email address removed]"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
