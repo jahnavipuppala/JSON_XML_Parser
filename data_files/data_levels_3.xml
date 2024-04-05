@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <name>DMI Finance</name>
+    <branches>
+        <branch>
+            <id>BLR001</id>
+            <location>Bangalore</location>
+            <departments>
+                <department>
+                    <name>Customer Service</name>
+                    <employees>
+                        <employee>
+                            <id>101</id>
+                            <name>John Doe</name>
+                            <designation>Customer Service Representative</designation>
+                            <contact>
+                                <phone>+91 80 12345678</phone>
+                                <email>&#60;email address removed&#62;</email>
+                            </contact>
+                        </employee>
+                        <employee>
+                            <id>102</id>
+                            <name>Jane Smith</name>
+                            <designation>Loan Officer</designation>
+                            <contact>
+                                <phone>+91 80 87654321</phone>
+                                <email>&#60;email address removed&#62;</email>
+                            </contact>
+                        </employee>
+                    </employees>
+                </department>
+                <department>
+                    <name>Accounts</name>
+                    <employees>
+                        <employee>
+                            <id>103</id>
+                            <name>Michael Brown</name>
+                            <designation>Accountant</designation>
+                            <contact>
+                                <phone>+91 80 98765432</phone>
+                                <email>&#60;email address removed&#62;</email>
+                            </contact>
+                        </employee>
+                    </employees>
+                </department>
+            </departments>
+        </branch>
+        <branch>
+            <id>CHN002</id>
+            <location>Chennai</location>
+            <departments>
+                <department>
+                    <name>Sales</name>
+                    <employees>
+                        <employee>
+                            <id>104</id>
+                            <name>David Lee</name>
+                            <designation>Sales Manager</designation>
+                            <contact>
+                                <phone>+91 44 43215678</phone>
+                                <email>&#60;email address removed&#62;</email>
+                            </contact>
+                        </employee>
+                    </employees>
+                </department>
+            </departments>
+        </branch>
+    </branches>
+</company>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company name="DMI Finance">
+    <customers>
+        <customer customer_id="1001">
+            <name>John Doe</name>
+            <account_number>1234567890</account_number>
+            <account_type>Savings</account_type>
+            <balance>10000.00</balance>
+            <transactions>
+                <transaction date="2024-04-01">
+                    <description>Deposit</description>
+                    <amount>5000.00</amount>
+                </transaction>
+                <transaction date="2024-04-04">
+                    <description>ATM Withdrawal</description>
+                    <amount>200.00</amount>
+                </transaction>
+            </transactions>
+        </customer>
+        <customer customer_id="1002">
+            <name>Jane Smith</name>
+            <account_number>9876543210</account_number>
+            <account_type>Checking</account_type>
+            <balance>25000.00</balance>
+            <transactions>
+                <transaction date="2024-04-02">
+                    <description>Bill Payment</description>
+                    <amount>1000.00</amount>
+                </transaction>
+                <transaction date="2024-04-04">
+                    <description>ACH Transfer</description>
+                    <amount>5000.00</amount>
+                </transaction>
+            </transactions>
+        </customer>
+    </customers>
+</company>
