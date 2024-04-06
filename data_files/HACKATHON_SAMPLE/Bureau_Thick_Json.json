@@ -1,0 +1,1684 @@
+Bureau Thick:-
+{
+  "JSON-RESPONSE-OBJECT": {
+    "addressList": [
+      {
+        "addressLine1": "H NO SQ 41",
+        "addressLine2": "SIDDHARTH ENCLIVE",
+        "addressLine3": "NEAR MOHRANI BAAG",
+        "addressLine5": "DELHI",
+        "stateCode": "07",
+        "pinCode": "110014",
+        "addressCategory": "01",
+        "residenceCode": "01",
+        "dateReported": "20012024"
+      },
+      {
+        "addressLine1": "PROPERTY NO. 5",
+        "addressLine2": "2ND FLOOR",
+        "addressLine3": "NEW DELHI",
+        "stateCode": "07",
+        "pinCode": "110014",
+        "addressCategory": "02",
+        "dateReported": "12012024"
+      },
+      {
+        "addressLine1": "SQ-41 SIDHARTHA ENCLAVE MAHARANI BAGH",
+        "addressLine2": "ASHRAM DELHI DELHI 110014",
+        "stateCode": "07",
+        "pinCode": "110014",
+        "addressCategory": "02",
+        "dateReported": "31082019"
+      },
+      {
+        "addressLine1": "S O SOM PARKASH SHARMA, , SAHASWAN",
+        "addressLine2": "SAHASWAN SERAI URF VIJAY GARHI BUDAUN UP",
+        "addressLine3": "243638 SERAI URF VIJAY GARHI",
+        "stateCode": "09",
+        "pinCode": "243638",
+        "addressCategory": "01",
+        "dateReported": "22062018"
+      }
+    ],
+    "enquiryList": [
+      {
+        "dateReported": "26032024",
+        "reportingMemberShortName": "DMIFINANCE",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "50000"
+      },
+      {
+        "dateReported": "19032024",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "51",
+        "enquiryAmount": "100"
+      },
+      {
+        "dateReported": "12122023",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "10",
+        "enquiryAmount": "1000"
+      },
+      {
+        "dateReported": "03122023",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "61",
+        "enquiryAmount": "100000"
+      },
+      {
+        "dateReported": "19082022",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "200000"
+      },
+      {
+        "dateReported": "17082022",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "00",
+        "enquiryAmount": "1"
+      },
+      {
+        "dateReported": "01072022",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "35",
+        "enquiryAmount": "200"
+      },
+      {
+        "dateReported": "15062021",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "100"
+      }
+    ],
+    "accountList": [
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "10",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "27022018",
+        "dateOfLastPayment": "04052022",
+        "dateClosed": "21122022",
+        "dateReportedAndCertified": "21032024",
+        "highCreditOrSanctionedAmount": "99662",
+        "currentBalance": "99662",
+        "overdueAmount": "64035",
+        "paymentHistory1": "186188186187187186188185189188185190185187XXX187156XXX",
+        "paymentHistory2": "098065037014000038012000000000000000000000000000000000",
+        "paymentHistoryStartDate": "01032024",
+        "paymentHistoryEndDate": "01042021",
+        "writtenOff&SettledStatus": "02",
+        "creditLimit": "66000",
+        "cashLimit": "6600",
+        "rateOfInterest": "45.00",
+        "wriitenOffAmount(total)": "99662",
+        "writtenOffAmount(principal)": "62372",
+        "paymentFrequence": "03",
+        "actualPaymentAmount": "32000"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "05",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "23082022",
+        "dateClosed": "20022024",
+        "dateReportedAndCertified": "29022024",
+        "highCreditOrSanctionedAmount": "187532",
+        "currentBalance": "0",
+        "paymentHistory1": "000000000000000000000000000000000000000000000000000000",
+        "paymentHistory2": "000",
+        "paymentHistoryStartDate": "01022024",
+        "paymentHistoryEndDate": "01082022",
+        "paymentFrequence": "03"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "05",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "07022022",
+        "dateClosed": "24082022",
+        "dateReportedAndCertified": "31102022",
+        "highCreditOrSanctionedAmount": "250000",
+        "currentBalance": "0",
+        "paymentHistory1": "000000000000000000000000",
+        "paymentHistoryStartDate": "01102022",
+        "paymentHistoryEndDate": "01032022",
+        "paymentFrequence": "03"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "05",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "27092021",
+        "dateOfLastPayment": "09032023",
+        "dateClosed": "10032023",
+        "dateReportedAndCertified": "31032023",
+        "highCreditOrSanctionedAmount": "80000",
+        "currentBalance": "0",
+        "paymentHistory1": "000157129098067XXX006001XXX004006XXX001000000000000000",
+        "paymentHistory2": "001",
+        "paymentHistoryStartDate": "01032023",
+        "paymentHistoryEndDate": "01092021",
+        "repaymentTenure": "12",
+        "paymentFrequence": "03"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "05",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "02072020",
+        "dateOfLastPayment": "02082021",
+        "dateClosed": "02082021",
+        "dateReportedAndCertified": "31082021",
+        "highCreditOrSanctionedAmount": "80000",
+        "currentBalance": "0",
+        "paymentHistory1": "000003002000000000",
+        "paymentHistoryStartDate": "01082021",
+        "paymentHistoryEndDate": "01032021",
+        "typeOfCollateral": "00",
+        "rateOfInterest": "1.75",
+        "repaymentTenure": "13",
+        "emiAmount": "8112",
+        "paymentFrequence": "03",
+        "actualPaymentAmount": "98436"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "05",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "28112019",
+        "dateOfLastPayment": "27052020",
+        "dateClosed": "28052020",
+        "dateReportedAndCertified": "31032021",
+        "highCreditOrSanctionedAmount": "25000",
+        "currentBalance": "0",
+        "paymentHistory1": "000",
+        "paymentHistoryStartDate": "01032021",
+        "paymentHistoryEndDate": "01032021",
+        "typeOfCollateral": "00",
+        "rateOfInterest": "2.04",
+        "repaymentTenure": "6",
+        "emiAmount": "4706",
+        "paymentFrequence": "03",
+        "actualPaymentAmount": "28055"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "10",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "11062018",
+        "dateOfLastPayment": "25092023",
+        "dateReportedAndCertified": "29022024",
+        "highCreditOrSanctionedAmount": "388791",
+        "currentBalance": "0",
+        "paymentHistory1": "000000000000000000006006005006005006003006006005006005",
+        "paymentHistory2": "000006005000000000000000000000000000000000000000000000",
+        "paymentHistoryStartDate": "01022024",
+        "paymentHistoryEndDate": "01032021",
+        "creditLimit": "313000",
+        "cashLimit": "62600",
+        "paymentFrequence": "03",
+        "actualPaymentAmount": "47500",
+        "CibilRemarksCode": " ",
+        "ErrorRemarksCode1": " ",
+        "ErrorRemarksCode2": " "
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "10",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "19052018",
+        "dateOfLastPayment": "03032024",
+        "dateReportedAndCertified": "12032024",
+        "highCreditOrSanctionedAmount": "381735",
+        "currentBalance": "306921",
+        "paymentHistory1": "000000000070041010000000000000000000000000000000000000",
+        "paymentHistory2": "000011000000000000000000000000000000000000000000000000",
+        "paymentHistoryStartDate": "01032024",
+        "paymentHistoryEndDate": "01042021",
+        "creditLimit": "314000",
+        "cashLimit": "7079",
+        "rateOfInterest": "47.88",
+        "paymentFrequence": "03",
+        "actualPaymentAmount": "29959"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "10",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "17052018",
+        "dateOfLastPayment": "19122022",
+        "dateClosed": "03012023",
+        "dateReportedAndCertified": "04012023",
+        "highCreditOrSanctionedAmount": "105278",
+        "currentBalance": "0",
+        "paymentHistory1": "000000010039042040039010000000000000000000000000000000",
+        "paymentHistory2": "000000000000000000000000000000000000000000000000000000",
+        "paymentHistoryStartDate": "01012023",
+        "paymentHistoryEndDate": "01022020",
+        "writtenOff&SettledStatus": "03",
+        "creditLimit": "91000",
+        "cashLimit": "9100"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "10",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "27032018",
+        "dateOfLastPayment": "30012024",
+        "dateClosed": "28022024",
+        "dateReportedAndCertified": "29022024",
+        "highCreditOrSanctionedAmount": "205131",
+        "currentBalance": "0",
+        "paymentHistory1": "000000039039039008009000008009000009000009009008009008",
+        "paymentHistory2": "009009008009000000000009000000000000000000000000000000",
+        "paymentHistoryStartDate": "01022024",
+        "paymentHistoryEndDate": "01032021",
+        "writtenOff&SettledStatus": "04",
+        "creditLimit": "262000",
+        "cashLimit": "35000",
+        "repaymentTenure": "48",
+        "actualPaymentAmount": "32180"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "37",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "28102015",
+        "dateOfLastPayment": "07022024",
+        "dateReportedAndCertified": "29022024",
+        "highCreditOrSanctionedAmount": "845000",
+        "currentBalance": "51266",
+        "paymentHistory1": "000000000000000000000000000000000000000000000000000000",
+        "paymentHistory2": "000000000000000000000000000000000000000000000000000000",
+        "paymentHistoryStartDate": "01022024",
+        "paymentHistoryEndDate": "01032021"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "10",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "21082013",
+        "dateOfLastPayment": "01102013",
+        "dateClosed": "04102013",
+        "dateReportedAndCertified": "05032024",
+        "highCreditOrSanctionedAmount": "22990",
+        "currentBalance": "-843",
+        "paymentHistory1": "000000000000000000000000000000000000000000000000000000",
+        "paymentHistory2": "000000000000000000XXX000000000000000000000000000000000",
+        "paymentHistoryStartDate": "01032024",
+        "paymentHistoryEndDate": "01042021",
+        "creditLimit": "57000",
+        "cashLimit": "5700",
+        "paymentFrequence": "03"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "10",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "14062013",
+        "dateOfLastPayment": "25072023",
+        "dateClosed": "19092023",
+        "dateReportedAndCertified": "27092023",
+        "highCreditOrSanctionedAmount": "129099",
+        "currentBalance": "0",
+        "paymentHistory1": "000LSS000060030060060060030030000004001001001001001001",
+        "paymentHistory2": "001000000000000000000000000000000000000000000000000000",
+        "paymentHistoryStartDate": "01092023",
+        "paymentHistoryEndDate": "01102020",
+        "writtenOff&SettledStatus": "03",
+        "creditLimit": "75000",
+        "cashLimit": "1",
+        "seetlementAmount": "93000"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "05",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "07122011",
+        "dateOfLastPayment": "05122015",
+        "dateClosed": "05122015",
+        "dateReportedAndCertified": "31122015",
+        "highCreditOrSanctionedAmount": "150000",
+        "currentBalance": "0",
+        "paymentHistory1": "000000000000000000000000000000000000000000000000000000",
+        "paymentHistory2": "000000000000000000000000000000000000000000000000000000",
+        "paymentHistoryStartDate": "01122015",
+        "paymentHistoryEndDate": "01012013",
+        "paymentFrequence": "03",
+        "actualPaymentAmount": "4387"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "10",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "02032011",
+        "dateOfLastPayment": "06022024",
+        "dateReportedAndCertified": "29022024",
+        "highCreditOrSanctionedAmount": "458410",
+        "currentBalance": "399154",
+        "paymentHistory1": "000000000000000000000000000000000000000000000000000000",
+        "paymentHistory2": "025024000000000000000000000000000000000000000000000000",
+        "paymentHistoryStartDate": "01022024",
+        "paymentHistoryEndDate": "01032021",
+        "creditLimit": "383000"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "10",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "27032018",
+        "dateOfLastPayment": "26062019",
+        "dateClosed": "15082019",
+        "dateReportedAndCertified": "30112020",
+        "highCreditOrSanctionedAmount": "178322",
+        "currentBalance": "0",
+        "paymentHistory1": "XXXXXX000000000000000000000000000000000000000000000000",
+        "paymentHistoryStartDate": "01082019",
+        "paymentHistoryEndDate": "01032018",
+        "creditLimit": "175000",
+        "cashLimit": "35000"
+      }
+    ],
+    "phoneList": [
+      {
+        "telephoneNumber": "8587845740",
+        "telephoneType": "01"
+      },
+      {
+        "telephoneNumber": "9958299384",
+        "telephoneType": "03",
+        "enrichEnquiryForPhone": "Y"
+      },
+      {
+        "telephoneNumber": "8267808267",
+        "telephoneType": "01"
+      },
+      {
+        "telephoneNumber": "9005388365",
+        "telephoneType": "01"
+      }
+    ],
+    "name": {
+      "name1": "DHARMESH SHARMA",
+      "dob": "04031989",
+      "gender": "2"
+    },
+    "idList": [
+      {
+        "idType": "01",
+        "idValue": "CSOPS6735E"
+      },
+      {
+        "idType": "04",
+        "idValue": "21791/ALIGARH/08"
+      },
+      {
+        "idType": "06",
+        "idValue": "XXXXXXXXXXXX"
+      },
+      {
+        "idType": "EMAIL",
+        "idValue": "DHARMESHSHARMA.1080@REDIFFMAIL.COM"
+      },
+      {
+        "idType": "EMAIL",
+        "idValue": "DHARMESHSHARMA.1080@REDIFFMAIL.COM"
+      },
+      {
+        "idType": "EMAIL",
+        "idValue": "DHARMESHSHARMA@DRREDDYS.IN"
+      },
+      {
+        "idType": "EMAIL",
+        "idValue": "DHARMESHSHARMA@DRREDDY.COM"
+      }
+    ],
+    "employmentList": [
+      {
+        "accountType": "05",
+        "dateReported": "31082021",
+        "income": "50000",
+        "grossIncomeIndicator": "G",
+        "monthlyIncomeIndicator": "M"
+      }
+    ],
+    "header": {
+      "version": "12",
+      "memberReferenceNumber": " 0000NB66831003_",
+      "enquiryMemberUserID": "NB66831003_CIRC2C ",
+      "subjectReturnCode": "1",
+      "enquiryControlNumber": "007400337282",
+      "dateProceed": "05042024",
+      "timeProceed": "140737"
+    },
+    "scoreList": [
+      {
+        "scoreName": "CIBILTUSC3",
+        "scoreCardName": "08",
+        "scoreCardVersion": "10",
+        "scoreDate": "05042024",
+        "score": "00678",
+        "reasonCode1": "03",
+        "reasonCode2": "08",
+        "reasonCode3": "07"
+      }
+    ]
+  },
+  "BUREAU": "CIBIL",
+  "TRACKING-ID": 58322332,
+  "PRODUCT": "CIR",
+  "STATUS": "SUCCESS",
+  "BUREAU-STRING": "TUEF12 0000NB66831003_CIRC2C 100740033728205042024140737PN03N010115DHARMESH SHARMA07080403198908012ID03I010102010210CSOPS6735EID03I02010204021621791/ALIGARH/08ID03I030102060212XXXXXXXXXXXXPT03T0101108587845740030201PT03T02011099582993840302039001YPT03T0301108267808267030201PT03T0401109005388365030201EC03C010134DHARMESHSHARMA.1080@REDIFFMAIL.COMEC03C020134DHARMESHSHARMA.1080@REDIFFMAIL.COMEC03C030126DHARMESHSHARMA@DRREDDYS.INEC03C040126DHARMESHSHARMA@DRREDDY.COMEM03E010102050208310820210405500000501G0601MSC10CIBILTUSC3010208020210030805042024040500678250203260208270207PA03A010110H NO SQ 410217SIDDHARTH ENCLIVE0317NEAR MOHRANI BAAG0505DELHI0602070706110014080201090201100820012024PA03A020114PROPERTY NO. 502092ND FLOOR0309NEW DELHI0602070706110014080202100812012024PA03A030137SQ-41 SIDHARTHA ENCLAVE MAHARANI BAGH0225ASHRAM DELHI DELHI 1100140602070706110014080202100831082019PA03A040134S O SOM PARKASH SHARMA, , SAHASWAN0240SAHASWAN SERAI URF VIJAY GARHI BUDAUN UP0328243638 SERAI URF VIJAY GARHI0602090706243638080201100822062018TL04T0010213NOT DISCLOSED040210050110808270220180908040520221008211220221108210320241205996621305996621405640352854186188186187187186188185189188185190185187XXX187156XXX295409806503701400003801200000000000000000000000000000000030080103202431080104202133020236056600037046600380545.00410599662420562372440203450532000TL04T0020213NOT DISCLOSED0402050501108082308202210082002202411082902202412061875321301028540000000000000000000000000000000000000000000000000000002903000300801022024310801082022440203TL04T0030213NOT DISCLOSED040205050110808070220221008240820221108311020221206250000130102824000000000000000000000000300801102022310801032022440203TL04T0040213NOT DISCLOSED04020505011080827092021090809032023100810032023110831032023120580000130102854000157129098067XXX006001XXX004006XXX0010000000000000002903001300801032023310801092021390212440203TL04T0050213NOT DISCLOSED0402050501108080207202009080208202110080208202111083108202112058000013010281800000300200000000030080108202131080103202135020038041.7539021340048112440203450598436TL04T0060213NOT DISCLOSED0402050501108082811201909082705202010082805202011083103202112052500013010280300030080103202131080103202135020038042.043901640044706440203450528055TL04T0070213NOT DISCLOSED040210050110808110620180908250920231108290220241206388791130102854000000000000000000006006005006005006003006006005006005295400000600500000000000000000000000000000000000000000000030080102202431080103202136063130003705626004402034505475008406 8606 8706 TL04T0080213NOT DISCLOSED040210050110808190520180908030320241108120320241206381735130630692128540000000000700410100000000000000000000000000000000000002954000011000000000000000000000000000000000000000000000000300801032024310801042021360631400037047079380547.88440203450529959TL04T0090213NOT DISCLOSED040210050110808170520180908191220221008030120231108040120231206105278130102854000000010039042040039010000000000000000000000000000000295400000000000000000000000000000000000000000000000000000030080101202331080102202033020336059100037049100TL04T0100213NOT DISCLOSED04021005011080827032018090830012024100828022024110829022024120620513113010285400000003903903900800900000800900000900000900900800900829540090090080090000000000090000000000000000000000000000003008010220243108010320213302043606262000370535000390248450532180TL04T0110213NOT DISCLOSED04023705011080828102015090807022024110829022024120684500013055126628540000000000000000000000000000000000000000000000000000002954000000000000000000000000000000000000000000000000000000300801022024310801032021TL04T0120213NOT DISCLOSED040210050110808210820130908011020131008041020131108050320241205229901304-84328540000000000000000000000000000000000000000000000000000002954000000000000000000XXX00000000000000000000000000000000030080103202431080104202136055700037045700440203TL04T0130213NOT DISCLOSED040210050110808140620130908250720231008190920231108270920231206129099130102854000LSS000060030060060060030030000004001001001001001001295400100000000000000000000000000000000000000000000000000030080109202331080110202033020336057500037011430593000TL04T0140213NOT DISCLOSED040205050110808071220110908051220151008051220151108311220151206150000130102854000000000000000000000000000000000000000000000000000000295400000000000000000000000000000000000000000000000000000030080112201531080101201344020345044387TL04T0150213NOT DISCLOSED0402100501108080203201109080602202411082902202412064584101306399154285400000000000000000000000000000000000000000000000000000029540250240000000000000000000000000000000000000000000000003008010220243108010320213606383000TL04T0160213NOT DISCLOSED040210050110808270320180908260620191008150820191108301120201206178322130102854XXXXXX0000000000000000000000000000000000000000000000003008010820193108010320183606175000370535000IQ04I0010108260320240410DMIFINANCE050205060550000IQ04I0020108190320240413NOT DISCLOSED0502510603100IQ04I0030108121220230413NOT DISCLOSED05021006041000IQ04I0040108031220230413NOT DISCLOSED0502610606100000IQ04I0050108190820220413NOT DISCLOSED0502050606200000IQ04I0060108170820220413NOT DISCLOSED05020006011IQ04I0070108010720220413NOT DISCLOSED0502350603200IQ04I0080108150620210413NOT DISCLOSED0502050603100ES0700052600102**\u0013"
+}
+
+
+
+===========================================================================================================================================================================================================================
+{
+  "JSON-RESPONSE-OBJECT": {
+    "addressList": [
+      {
+        "addressLine1": "GODREJ IT PARK LAL BHADUR SHASTRI MARG",
+        "addressLine2": "GATE NO 3",
+        "stateCode": "27",
+        "pinCode": "400079",
+        "addressCategory": "03",
+        "dateReported": "12032024"
+      },
+      {
+        "addressLine1": "199 JAY AMBIKA CHAWL NETAJI PALKAR MARG",
+        "addressLine2": "SUNDAR B 199 JAY AMBIKA CHAWL NETAJI",
+        "addressLine3": "PALKAR MARG SUNDAR BAG ASALFA VILLAGE",
+        "addressLine4": "GANESH MANDIR",
+        "stateCode": "27",
+        "pinCode": "400084",
+        "addressCategory": "01",
+        "dateReported": "12032024"
+      },
+      {
+        "addressLine1": "199 JAY AMBIKA CHAWL NETAJI PALKAR MARG",
+        "addressLine2": "SUNDAR BAG",
+        "stateCode": "27",
+        "pinCode": "400084",
+        "addressCategory": "02",
+        "dateReported": "12032024"
+      },
+      {
+        "addressLine1": "199 ASALFA VILLAGE",
+        "addressLine2": "JAI AMBIKA CHWAL NETAJI PALKAR MARG",
+        "addressLine3": "ASALFA VILLAGE",
+        "stateCode": "27",
+        "pinCode": "400084",
+        "addressCategory": "02",
+        "dateReported": "20012022",
+        "enrichedThroughtEnquiry": "Y"
+      }
+    ],
+    "enquiryList": [
+      {
+        "dateReported": "24022024",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "10",
+        "enquiryAmount": "10000"
+      },
+      {
+        "dateReported": "16022024",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "10",
+        "enquiryAmount": "10000"
+      },
+      {
+        "dateReported": "03122023",
+        "reportingMemberShortName": "DMIFINANCE",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "50000"
+      },
+      {
+        "dateReported": "25062022",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "10",
+        "enquiryAmount": "10000"
+      },
+      {
+        "dateReported": "20012022",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "10",
+        "enquiryAmount": "100"
+      }
+    ],
+    "accountList": [
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "10",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "25022024",
+        "dateReportedAndCertified": "12032024",
+        "currentBalance": "0",
+        "paymentHistory1": "000",
+        "paymentHistoryStartDate": "01032024",
+        "paymentHistoryEndDate": "01032024",
+        "creditLimit": "20000",
+        "CibilRemarksCode": " ",
+        "ErrorRemarksCode1": " ",
+        "ErrorRemarksCode2": " "
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "06",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "13042022",
+        "dateOfLastPayment": "05052022",
+        "dateReportedAndCertified": "29022024",
+        "highCreditOrSanctionedAmount": "9000",
+        "currentBalance": "0",
+        "paymentHistory1": "000000000000000000000000000000000000000000000000000000",
+        "paymentHistory2": "000000000000",
+        "paymentHistoryStartDate": "01022024",
+        "paymentHistoryEndDate": "01052022",
+        "paymentFrequence": "03"
+      }
+    ],
+    "phoneList": [
+      {
+        "telephoneNumber": "8451944023",
+        "telephoneType": "01",
+        "enrichEnquiryForPhone": "Y"
+      },
+      {
+        "telephoneNumber": "9324257117",
+        "telephoneType": "01",
+        "enrichEnquiryForPhone": "Y"
+      }
+    ],
+    "name": {
+      "name1": "SHANKAR",
+      "name2": "RAMU",
+      "name3": "JADHAV",
+      "dob": "18021995",
+      "gender": "2"
+    },
+    "idList": [
+      {
+        "idType": "01",
+        "idValue": "BDVPJ7665M"
+      },
+      {
+        "idType": "EMAIL",
+        "idValue": "SHANKARJADH889@GMAIL.COM"
+      },
+      {
+        "idType": "EMAIL",
+        "idValue": "SHANKARJADH889@GMAIL.COM"
+      }
+    ],
+    "header": {
+      "version": "12",
+      "memberReferenceNumber": " 0000NB66831003_",
+      "enquiryMemberUserID": "NB66831003_CIRC2C ",
+      "subjectReturnCode": "1",
+      "enquiryControlNumber": "007400337589",
+      "dateProceed": "05042024",
+      "timeProceed": "140740"
+    },
+    "scoreList": [
+      {
+        "scoreName": "CIBILTUSC3",
+        "scoreCardName": "08",
+        "scoreCardVersion": "10",
+        "scoreDate": "05042024",
+        "score": "00767",
+        "reasonCode1": "40"
+      }
+    ]
+  },
+  "BUREAU": "CIBIL",
+  "TRACKING-ID": 58322332,
+  "PRODUCT": "CIR",
+  "STATUS": "SUCCESS",
+  "BUREAU-STRING": "TUEF12 0000NB66831003_CIRC2C 100740033758905042024140740PN03N010107SHANKAR0204RAMU0306JADHAV07081802199508012ID03I010102010210BDVPJ7665MPT03T01011084519440230302019001YPT03T02011093242571170302019001YEC03C010124SHANKARJADH889@GMAIL.COMEC03C020124SHANKARJADH889@GMAIL.COMSC10CIBILTUSC3010208020210030805042024040500767250240PA03A010138GODREJ IT PARK LAL BHADUR SHASTRI MARG0209GATE NO 30602270706400079080203100812032024PA03A020139199 JAY AMBIKA CHAWL NETAJI PALKAR MARG0236SUNDAR B 199 JAY AMBIKA CHAWL NETAJI0337PALKAR MARG SUNDAR BAG ASALFA VILLAGE0413GANESH MANDIR0602270706400084080201100812032024PA03A030139199 JAY AMBIKA CHAWL NETAJI PALKAR MARG0210SUNDAR BAG0602270706400084080202100812032024PA03A040119199 ASALFA VILLAGE0235JAI AMBIKA CHWAL NETAJI PALKAR MARG0314ASALFA VILLAGE06022707064000840802021008200120229001YTL04T0010213NOT DISCLOSED040210050110808250220241108120320241301028030003008010320243108010320243605200008406 8606 8706 TL04T0020213NOT DISCLOSED04020605011080813042022090805052022110829022024120490001301028540000000000000000000000000000000000000000000000000000002912000000000000300801022024310801052022440203IQ04I0010108240220240413NOT DISCLOSED050210060510000IQ04I0020108160220240413NOT DISCLOSED050210060510000IQ04I0030108031220230410DMIFINANCE050205060550000IQ04I0040108250620220413NOT DISCLOSED050210060510000IQ04I0050108200120220413NOT DISCLOSED0502100603100ES0700014590102**\u0013"
+}
+=====================================================================================================================================================================================================================================================
+
+{
+  "JSON-RESPONSE-OBJECT": {
+    "addressList": [
+      {
+        "addressLine1": "KIZHAKKUVIKLAKAM",
+        "addressLine2": "KAYIKKARA",
+        "addressLine3": "VETTOOR",
+        "addressLine4": "KAIKARA B.O",
+        "addressLine5": "THIRUVANANTHAPURAM,KERALA",
+        "stateCode": "32",
+        "pinCode": "695307",
+        "addressCategory": "01",
+        "dateReported": "15022024"
+      },
+      {
+        "addressLine1": "KIZHAKKUVILAKAM VETTOOR CHERUNNIYOOR",
+        "addressLine2": "THIRUVANANTHAPURAM 7109 KERALA",
+        "stateCode": "32",
+        "pinCode": "695307",
+        "addressCategory": "04",
+        "dateReported": "31122023"
+      },
+      {
+        "addressLine1": "KIZHAKKUVILAKAM VETTOOR CHERUNNIYOOR",
+        "addressLine2": "THIRUVANANTHAPURAM 7109 KERALA",
+        "stateCode": "32",
+        "pinCode": "695307",
+        "addressCategory": "01",
+        "dateReported": "31122023"
+      },
+      {
+        "addressLine1": "KIZHAKKUVILAKAM VETTOOR CHERUNNIYOOR",
+        "addressLine2": "THIRUVANANTHAPURAM 7109 KERALA",
+        "stateCode": "32",
+        "pinCode": "695307",
+        "addressCategory": "03",
+        "dateReported": "31122023"
+      }
+    ],
+    "enquiryList": [
+      {
+        "dateReported": "26022024",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "1"
+      },
+      {
+        "dateReported": "13052023",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "06",
+        "enquiryAmount": "25000"
+      },
+      {
+        "dateReported": "12052023",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "06",
+        "enquiryAmount": "14499"
+      },
+      {
+        "dateReported": "12052023",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "06",
+        "enquiryAmount": "50000"
+      },
+      {
+        "dateReported": "22052022",
+        "reportingMemberShortName": "DMIFINANCE",
+        "enquiryPurpose": "00",
+        "enquiryAmount": "50000"
+      }
+    ],
+    "accountList": [
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "05",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "15022024",
+        "dateOfLastPayment": "15022024",
+        "dateReportedAndCertified": "02032024",
+        "highCreditOrSanctionedAmount": "30000",
+        "currentBalance": "30000",
+        "paymentHistory1": "000000",
+        "paymentHistoryStartDate": "01032024",
+        "paymentHistoryEndDate": "01022024"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "12122023",
+        "dateOfLastPayment": "14022024",
+        "dateClosed": "14022024",
+        "dateReportedAndCertified": "29022024",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTD",
+        "paymentHistoryStartDate": "01022024",
+        "paymentHistoryEndDate": "01122023",
+        "rateOfInterest": "12.65"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "13112023",
+        "dateOfLastPayment": "14022024",
+        "dateClosed": "14022024",
+        "dateReportedAndCertified": "29022024",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTD",
+        "paymentHistoryStartDate": "01022024",
+        "paymentHistoryEndDate": "01112023",
+        "rateOfInterest": "12.65"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "07112023",
+        "dateOfLastPayment": "14022024",
+        "dateClosed": "14022024",
+        "dateReportedAndCertified": "29022024",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTD",
+        "paymentHistoryStartDate": "01022024",
+        "paymentHistoryEndDate": "01112023",
+        "rateOfInterest": "12.65"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "21092023",
+        "dateOfLastPayment": "02112023",
+        "dateClosed": "02112023",
+        "dateReportedAndCertified": "30112023",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTD",
+        "paymentHistoryStartDate": "01112023",
+        "paymentHistoryEndDate": "01092023",
+        "rateOfInterest": "12.65"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "18052023",
+        "dateOfLastPayment": "20102023",
+        "dateClosed": "20102023",
+        "dateReportedAndCertified": "31102023",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01102023",
+        "paymentHistoryEndDate": "01052023",
+        "rateOfInterest": "12.65"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "06",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "15052023",
+        "dateOfLastPayment": "06112023",
+        "dateClosed": "06112023",
+        "dateReportedAndCertified": "30112023",
+        "highCreditOrSanctionedAmount": "14729",
+        "currentBalance": "0",
+        "paymentHistory1": "000000000000000000000",
+        "paymentHistoryStartDate": "01112023",
+        "paymentHistoryEndDate": "01052023",
+        "paymentFrequence": "03",
+        "actualPaymentAmount": "2200"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "08052023",
+        "dateOfLastPayment": "18052023",
+        "dateClosed": "18052023",
+        "dateReportedAndCertified": "31052023",
+        "currentBalance": "0",
+        "paymentHistory1": "STD",
+        "paymentHistoryStartDate": "01052023",
+        "paymentHistoryEndDate": "01052023"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "27022023",
+        "dateOfLastPayment": "13112023",
+        "dateClosed": "13112023",
+        "dateReportedAndCertified": "30112023",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01112023",
+        "paymentHistoryEndDate": "01022023",
+        "rateOfInterest": "12.00",
+        "emiAmount": "42800"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "16022023",
+        "dateOfLastPayment": "07112023",
+        "dateClosed": "07112023",
+        "dateReportedAndCertified": "30112023",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01112023",
+        "paymentHistoryEndDate": "01022023",
+        "rateOfInterest": "12.00",
+        "emiAmount": "53000"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "14022023",
+        "dateOfLastPayment": "19102023",
+        "dateClosed": "19102023",
+        "dateReportedAndCertified": "31102023",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01102023",
+        "paymentHistoryEndDate": "01022023",
+        "rateOfInterest": "12.00",
+        "emiAmount": "176400"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "06092022",
+        "dateOfLastPayment": "11112022",
+        "dateClosed": "11112022",
+        "dateReportedAndCertified": "30112022",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTD",
+        "paymentHistoryStartDate": "01112022",
+        "paymentHistoryEndDate": "01092022",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "10.95"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "01082022",
+        "dateOfLastPayment": "27022023",
+        "dateClosed": "27022023",
+        "dateReportedAndCertified": "28022023",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01022023",
+        "paymentHistoryEndDate": "01082022",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "10.95",
+        "emiAmount": "6059"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "06",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "23052022",
+        "dateOfLastPayment": "16032023",
+        "dateReportedAndCertified": "29022024",
+        "highCreditOrSanctionedAmount": "10800",
+        "currentBalance": "0",
+        "paymentHistory1": "000000000000000000000000000000000000000000000000000000",
+        "paymentHistory2": "000000000000",
+        "paymentHistoryStartDate": "01022024",
+        "paymentHistoryEndDate": "01052022",
+        "repaymentTenure": "9",
+        "emiAmount": "1309",
+        "paymentFrequence": "03",
+        "actualPaymentAmount": "11773"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "05052022",
+        "dateOfLastPayment": "28022023",
+        "dateClosed": "28022023",
+        "dateReportedAndCertified": "28022023",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01022023",
+        "paymentHistoryEndDate": "01052022",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "9.85",
+        "emiAmount": "7059"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "28042022",
+        "dateOfLastPayment": "27022023",
+        "dateClosed": "27022023",
+        "dateReportedAndCertified": "28022023",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01022023",
+        "paymentHistoryEndDate": "01042022",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "9.85",
+        "emiAmount": "18059"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "17032022",
+        "dateOfLastPayment": "16022023",
+        "dateClosed": "16022023",
+        "dateReportedAndCertified": "28022023",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01022023",
+        "paymentHistoryEndDate": "01032022",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "9.85",
+        "emiAmount": "51000"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "16032022",
+        "dateOfLastPayment": "14022023",
+        "dateClosed": "14022023",
+        "dateReportedAndCertified": "28022023",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01022023",
+        "paymentHistoryEndDate": "01032022",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "9.85",
+        "emiAmount": "166059"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "06012022",
+        "dateOfLastPayment": "29012022",
+        "dateClosed": "29012022",
+        "dateReportedAndCertified": "31012022",
+        "currentBalance": "0",
+        "paymentHistory1": "STD",
+        "paymentHistoryStartDate": "01012022",
+        "paymentHistoryEndDate": "01012022",
+        "typeOfCollateral": "02"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "27122021",
+        "dateOfLastPayment": "07022022",
+        "dateClosed": "07022022",
+        "dateReportedAndCertified": "28022022",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTD",
+        "paymentHistoryStartDate": "01022022",
+        "paymentHistoryEndDate": "01122021",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "9.85"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "02122021",
+        "dateOfLastPayment": "24012022",
+        "dateClosed": "24012022",
+        "dateReportedAndCertified": "31012022",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTD",
+        "paymentHistoryStartDate": "01012022",
+        "paymentHistoryEndDate": "01122021",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "9.85"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "18102021",
+        "dateOfLastPayment": "06012022",
+        "dateClosed": "06012022",
+        "dateReportedAndCertified": "31012022",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTD",
+        "paymentHistoryStartDate": "01012022",
+        "paymentHistoryEndDate": "01102021",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "9.85"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "28092021",
+        "dateOfLastPayment": "18102021",
+        "dateClosed": "18102021",
+        "dateReportedAndCertified": "31102021",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTD",
+        "paymentHistoryStartDate": "01102021",
+        "paymentHistoryEndDate": "01092021",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "9.85"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "10092021",
+        "dateOfLastPayment": "16032022",
+        "dateClosed": "16032022",
+        "dateReportedAndCertified": "31032022",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01032022",
+        "paymentHistoryEndDate": "01092021",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "9.85",
+        "emiAmount": "151000"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "12082020",
+        "dateOfLastPayment": "10092021",
+        "dateClosed": "10092021",
+        "dateReportedAndCertified": "30092021",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01092021",
+        "paymentHistoryEndDate": "01082020",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "9.10",
+        "emiAmount": "163000"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "11052020",
+        "dateOfLastPayment": "12082020",
+        "dateClosed": "12082020",
+        "dateReportedAndCertified": "31082020",
+        "highCreditOrSanctionedAmount": "47500",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTD",
+        "paymentHistoryStartDate": "01082020",
+        "paymentHistoryEndDate": "01052020",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "13.50"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "14012020",
+        "dateOfLastPayment": "12082020",
+        "dateClosed": "12082020",
+        "dateReportedAndCertified": "31082020",
+        "highCreditOrSanctionedAmount": "27500",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01082020",
+        "paymentHistoryEndDate": "01012020",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "12.50"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "13012020",
+        "dateOfLastPayment": "12082020",
+        "dateClosed": "12082020",
+        "dateReportedAndCertified": "31082020",
+        "highCreditOrSanctionedAmount": "33000",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01082020",
+        "paymentHistoryEndDate": "01012020",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "12.50"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "26112019",
+        "dateOfLastPayment": "12082020",
+        "dateClosed": "12082020",
+        "dateReportedAndCertified": "31082020",
+        "highCreditOrSanctionedAmount": "16500",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01082020",
+        "paymentHistoryEndDate": "01112019",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "12.50"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "29102019",
+        "dateOfLastPayment": "13012020",
+        "dateClosed": "13012020",
+        "dateReportedAndCertified": "31012020",
+        "highCreditOrSanctionedAmount": "6500",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTD",
+        "paymentHistoryStartDate": "01012020",
+        "paymentHistoryEndDate": "01102019",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "12.50"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "25102019",
+        "dateOfLastPayment": "26112019",
+        "dateClosed": "26112019",
+        "dateReportedAndCertified": "30112019",
+        "highCreditOrSanctionedAmount": "21500",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTD",
+        "paymentHistoryStartDate": "01112019",
+        "paymentHistoryEndDate": "01102019",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "12.50"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "24102019",
+        "dateOfLastPayment": "11052020",
+        "dateClosed": "11052020",
+        "dateReportedAndCertified": "31052020",
+        "highCreditOrSanctionedAmount": "43500",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01052020",
+        "paymentHistoryEndDate": "01102019",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "12.50"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "18092019",
+        "dateOfLastPayment": "25102019",
+        "dateClosed": "25102019",
+        "dateReportedAndCertified": "31102019",
+        "highCreditOrSanctionedAmount": "20000",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTD",
+        "paymentHistoryStartDate": "01102019",
+        "paymentHistoryEndDate": "01092019",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "12.50"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "20082019",
+        "dateOfLastPayment": "13012020",
+        "dateClosed": "13012020",
+        "dateReportedAndCertified": "31012020",
+        "highCreditOrSanctionedAmount": "57000",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01012020",
+        "paymentHistoryEndDate": "01082019",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "12.50"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "15072019",
+        "dateOfLastPayment": "29102019",
+        "dateClosed": "29102019",
+        "dateReportedAndCertified": "31102019",
+        "highCreditOrSanctionedAmount": "17000",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTD",
+        "paymentHistoryStartDate": "01102019",
+        "paymentHistoryEndDate": "01072019",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "12.50"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "12072019",
+        "dateOfLastPayment": "15072019",
+        "dateClosed": "15072019",
+        "dateReportedAndCertified": "31072019",
+        "highCreditOrSanctionedAmount": "33000",
+        "currentBalance": "0",
+        "paymentHistory1": "STD",
+        "paymentHistoryStartDate": "01072019",
+        "paymentHistoryEndDate": "01072019",
+        "typeOfCollateral": "02"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "13062019",
+        "dateOfLastPayment": "13012020",
+        "dateClosed": "13012020",
+        "dateReportedAndCertified": "31012020",
+        "highCreditOrSanctionedAmount": "6500",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01012020",
+        "paymentHistoryEndDate": "01062019",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "12.50"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "10062019",
+        "dateOfLastPayment": "20082019",
+        "dateClosed": "20082019",
+        "dateReportedAndCertified": "31082019",
+        "highCreditOrSanctionedAmount": "51200",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTD",
+        "paymentHistoryStartDate": "01082019",
+        "paymentHistoryEndDate": "01062019",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "12.50"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "01062019",
+        "dateOfLastPayment": "25102019",
+        "dateClosed": "25102019",
+        "dateReportedAndCertified": "31102019",
+        "highCreditOrSanctionedAmount": "14000",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01102019",
+        "paymentHistoryEndDate": "01062019",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "12.50"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "03052019",
+        "dateOfLastPayment": "07052019",
+        "dateClosed": "07052019",
+        "dateReportedAndCertified": "31052019",
+        "highCreditOrSanctionedAmount": "13500",
+        "currentBalance": "0",
+        "paymentHistory1": "STD",
+        "paymentHistoryStartDate": "01052019",
+        "paymentHistoryEndDate": "01052019"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "14032019",
+        "dateOfLastPayment": "10062019",
+        "dateClosed": "10062019",
+        "dateReportedAndCertified": "30062019",
+        "highCreditOrSanctionedAmount": "67000",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTD",
+        "paymentHistoryStartDate": "01062019",
+        "paymentHistoryEndDate": "01032019"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "07032019",
+        "dateOfLastPayment": "12072019",
+        "dateClosed": "12072019",
+        "dateReportedAndCertified": "31072019",
+        "highCreditOrSanctionedAmount": "11900",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01072019",
+        "paymentHistoryEndDate": "01032019",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "12.50"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "02022019",
+        "dateOfLastPayment": "14032019",
+        "dateClosed": "14032019",
+        "dateReportedAndCertified": "31032019",
+        "highCreditOrSanctionedAmount": "26000",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTD",
+        "paymentHistoryStartDate": "01032019",
+        "paymentHistoryEndDate": "01022019"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "31012019",
+        "dateOfLastPayment": "02032019",
+        "dateClosed": "02032019",
+        "dateReportedAndCertified": "31032019",
+        "highCreditOrSanctionedAmount": "8800",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTD",
+        "paymentHistoryStartDate": "01032019",
+        "paymentHistoryEndDate": "01012019"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "07012019",
+        "dateOfLastPayment": "18092019",
+        "dateClosed": "18092019",
+        "dateReportedAndCertified": "30092019",
+        "highCreditOrSanctionedAmount": "13000",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01092019",
+        "paymentHistoryEndDate": "01012019",
+        "typeOfCollateral": "02",
+        "rateOfInterest": "12.50"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "12122018",
+        "dateOfLastPayment": "07012019",
+        "dateClosed": "07012019",
+        "dateReportedAndCertified": "31012019",
+        "highCreditOrSanctionedAmount": "22000",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTD",
+        "paymentHistoryStartDate": "01012019",
+        "paymentHistoryEndDate": "01122018"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "26112018",
+        "dateOfLastPayment": "14032019",
+        "dateClosed": "14032019",
+        "dateReportedAndCertified": "31032019",
+        "highCreditOrSanctionedAmount": "17000",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01032019",
+        "paymentHistoryEndDate": "01112018"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "26102018",
+        "dateOfLastPayment": "02022019",
+        "dateClosed": "02022019",
+        "dateReportedAndCertified": "28022019",
+        "highCreditOrSanctionedAmount": "29500",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01022019",
+        "paymentHistoryEndDate": "01102018"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "20102018",
+        "dateOfLastPayment": "12122018",
+        "dateClosed": "12122018",
+        "dateReportedAndCertified": "31122018",
+        "highCreditOrSanctionedAmount": "55000",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTD",
+        "paymentHistoryStartDate": "01122018",
+        "paymentHistoryEndDate": "01102018"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "20102018",
+        "dateOfLastPayment": "14032019",
+        "dateClosed": "14032019",
+        "dateReportedAndCertified": "31032019",
+        "highCreditOrSanctionedAmount": "14500",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01032019",
+        "paymentHistoryEndDate": "01102018"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "02072018",
+        "dateOfLastPayment": "20102018",
+        "dateClosed": "20102018",
+        "dateReportedAndCertified": "31102018",
+        "highCreditOrSanctionedAmount": "77500",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTD",
+        "paymentHistoryStartDate": "01102018",
+        "paymentHistoryEndDate": "01072018"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "22062018",
+        "dateOfLastPayment": "02072018",
+        "dateClosed": "02072018",
+        "dateReportedAndCertified": "31072018",
+        "highCreditOrSanctionedAmount": "12000",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTD",
+        "paymentHistoryStartDate": "01072018",
+        "paymentHistoryEndDate": "01062018"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "17052018",
+        "dateOfLastPayment": "06062018",
+        "dateClosed": "06062018",
+        "dateReportedAndCertified": "30062018",
+        "highCreditOrSanctionedAmount": "21200",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTD",
+        "paymentHistoryStartDate": "01062018",
+        "paymentHistoryEndDate": "01052018"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "14052018",
+        "dateOfLastPayment": "17052018",
+        "dateClosed": "17052018",
+        "dateReportedAndCertified": "31052018",
+        "highCreditOrSanctionedAmount": "45000",
+        "currentBalance": "0",
+        "paymentHistory1": "STD",
+        "paymentHistoryStartDate": "01052018",
+        "paymentHistoryEndDate": "01052018"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "05052018",
+        "dateOfLastPayment": "17052018",
+        "dateClosed": "17052018",
+        "dateReportedAndCertified": "31052018",
+        "highCreditOrSanctionedAmount": "10000",
+        "currentBalance": "0",
+        "paymentHistory1": "STD",
+        "paymentHistoryStartDate": "01052018",
+        "paymentHistoryEndDate": "01052018"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "31012018",
+        "dateOfLastPayment": "26042018",
+        "dateClosed": "26042018",
+        "dateReportedAndCertified": "30042018",
+        "highCreditOrSanctionedAmount": "15000",
+        "currentBalance": "0",
+        "paymentHistory1": "STD",
+        "paymentHistoryStartDate": "01042018",
+        "paymentHistoryEndDate": "01042018"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "23082017",
+        "dateOfLastPayment": "11062018",
+        "dateClosed": "11062018",
+        "dateReportedAndCertified": "30062018",
+        "highCreditOrSanctionedAmount": "30000",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTD",
+        "paymentHistoryStartDate": "01062018",
+        "paymentHistoryEndDate": "01042018"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "23082017",
+        "dateOfLastPayment": "11062018",
+        "dateClosed": "11062018",
+        "dateReportedAndCertified": "30062018",
+        "highCreditOrSanctionedAmount": "26600",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTD",
+        "paymentHistoryStartDate": "01062018",
+        "paymentHistoryEndDate": "01042018"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "07",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "23082017",
+        "dateOfLastPayment": "11062018",
+        "dateClosed": "11062018",
+        "dateReportedAndCertified": "30062018",
+        "highCreditOrSanctionedAmount": "16400",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTD",
+        "paymentHistoryStartDate": "01062018",
+        "paymentHistoryEndDate": "01042018"
+      }
+    ],
+    "phoneList": [
+      {
+        "telephoneNumber": "6282342455",
+        "telephoneType": "01"
+      },
+      {
+        "telephoneNumber": "7025668387",
+        "telephoneType": "00"
+      },
+      {
+        "telephoneNumber": "7025668387",
+        "telephoneType": "03"
+      },
+      {
+        "telephoneNumber": "7025668387",
+        "telephoneType": "01"
+      }
+    ],
+    "name": {
+      "name1": "LIGI",
+      "name3": "S",
+      "dob": "02061985",
+      "gender": "1"
+    },
+    "idList": [
+      {
+        "idType": "01",
+        "idValue": "FCSPS9974L"
+      },
+      {
+        "idType": "06",
+        "idValue": "XXXXXXXXXXXX"
+      },
+      {
+        "idType": "09",
+        "idValue": "60080437548689"
+      },
+      {
+        "idType": "EMAIL",
+        "idValue": "NONAME@NOMAIL.COM"
+      },
+      {
+        "idType": "EMAIL",
+        "idValue": "NONAME@NOMAIL.COM"
+      },
+      {
+        "idType": "EMAIL",
+        "idValue": "PRANAVKRISHNANJEKKAD@GMAIL.COM"
+      },
+      {
+        "idType": "EMAIL",
+        "idValue": "NONAME@NOMAIL.COM"
+      }
+    ],
+    "employmentList": [
+      {
+        "accountType": "06",
+        "dateReported": "30112023",
+        "occupationCode": "04"
+      }
+    ],
+    "header": {
+      "version": "12",
+      "memberReferenceNumber": " 0000NB66831003_",
+      "enquiryMemberUserID": "NB66831003_CIRC2C ",
+      "subjectReturnCode": "1",
+      "enquiryControlNumber": "007400340490",
+      "dateProceed": "05042024",
+      "timeProceed": "140809"
+    },
+    "scoreList": [
+      {
+        "scoreName": "CIBILTUSC3",
+        "scoreCardName": "08",
+        "scoreCardVersion": "10",
+        "scoreDate": "05042024",
+        "score": "00763",
+        "reasonCode1": "45"
+      }
+    ]
+  },
+  "BUREAU": "CIBIL",
+  "TRACKING-ID": 58322332,
+  "PRODUCT": "CIR",
+  "STATUS": "SUCCESS",
+  "BUREAU-STRING": "TUEF12 0000NB66831003_CIRC2C 100740034049005042024140809PN03N010104LIGI0301S07080206198508011ID03I010102010210FCSPS9974LID03I020102060212XXXXXXXXXXXXID03I03010209021460080437548689PT03T0101106282342455030201PT03T0201107025668387030200PT03T0301107025668387030203PT03T0401107025668387030201EC03C010117NONAME@NOMAIL.COMEC03C020117NONAME@NOMAIL.COMEC03C030130PRANAVKRISHNANJEKKAD@GMAIL.COMEC03C040117NONAME@NOMAIL.COMEM03E01010206020830112023030204SC10CIBILTUSC3010208020210030805042024040500763250245PA03A010116KIZHAKKUVIKLAKAM0209KAYIKKARA0307VETTOOR0411KAIKARA B.O0525THIRUVANANTHAPURAM,KERALA0602320706695307080201100815022024PA03A020136KIZHAKKUVILAKAM VETTOOR CHERUNNIYOOR0230THIRUVANANTHAPURAM 7109 KERALA0602320706695307080204100831122023PA03A030136KIZHAKKUVILAKAM VETTOOR CHERUNNIYOOR0230THIRUVANANTHAPURAM 7109 KERALA0602320706695307080201100831122023PA03A040136KIZHAKKUVILAKAM VETTOOR CHERUNNIYOOR0230THIRUVANANTHAPURAM 7109 KERALA0602320706695307080203100831122023TL04T0010213NOT DISCLOSED040205050110808150220240908150220241108020320241205300001305300002806000000300801032024310801022024TL04T0020213NOT DISCLOSED04020705011080812122023090814022024100814022024110829022024130102809STDSTDSTD300801022024310801122023380512.65TL04T0030213NOT DISCLOSED04020705011080813112023090814022024100814022024110829022024130102812STDSTDSTDSTD300801022024310801112023380512.65TL04T0040213NOT DISCLOSED04020705011080807112023090814022024100814022024110829022024130102812STDSTDSTDSTD300801022024310801112023380512.65TL04T0050213NOT DISCLOSED04020705011080821092023090802112023100802112023110830112023130102809STDSTDSTD300801112023310801092023380512.65TL04T0060213NOT DISCLOSED04020705011080818052023090820102023100820102023110831102023130102818STDSTDSTDSTDSTDSTD300801102023310801052023380512.65TL04T0070213NOT DISCLOSED0402060501108081505202309080611202310080611202311083011202312051472913010282100000000000000000000030080111202331080105202344020345042200TL04T0080213NOT DISCLOSED04020705011080808052023090818052023100818052023110831052023130102803STD300801052023310801052023TL04T0090213NOT DISCLOSED04020705011080827022023090813112023100813112023110830112023130102830STDSTDSTDSTDSTDSTDSTDSTDSTDSTD300801112023310801022023380512.00400542800TL04T0100213NOT DISCLOSED04020705011080816022023090807112023100807112023110830112023130102830STDSTDSTDSTDSTDSTDSTDSTDSTDSTD300801112023310801022023380512.00400553000TL04T0110213NOT DISCLOSED04020705011080814022023090819102023100819102023110831102023130102827STDSTDSTDSTDSTDSTDSTDSTDSTD300801102023310801022023380512.004006176400TL04T0120213NOT DISCLOSED04020705011080806092022090811112022100811112022110830112022130102809STDSTDSTD300801112022310801092022350202380510.95TL04T0130213NOT DISCLOSED04020705011080801082022090827022023100827022023110828022023130102821STDSTDSTDSTDSTDSTDSTD300801022023310801082022350202380510.9540046059TL04T0140213NOT DISCLOSED0402060501108082305202209081603202311082902202412051080013010285400000000000000000000000000000000000000000000000000000029120000000000003008010220243108010520223901940041309440203450511773TL04T0150213NOT DISCLOSED04020705011080805052022090828022023100828022023110828022023130102830STDSTDSTDSTDSTDSTDSTDSTDSTDSTD30080102202331080105202235020238049.8540047059TL04T0160213NOT DISCLOSED04020705011080828042022090827022023100827022023110828022023130102833STDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTD30080102202331080104202235020238049.85400518059TL04T0170213NOT DISCLOSED04020705011080817032022090816022023100816022023110828022023130102836STDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTD30080102202331080103202235020238049.85400551000TL04T0180213NOT DISCLOSED04020705011080816032022090814022023100814022023110828022023130102836STDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTD30080102202331080103202235020238049.854006166059TL04T0190213NOT DISCLOSED04020705011080806012022090829012022100829012022110831012022130102803STD300801012022310801012022350202TL04T0200213NOT DISCLOSED04020705011080827122021090807022022100807022022110828022022130102809STDSTDSTD30080102202231080112202135020238049.85TL04T0210213NOT DISCLOSED04020705011080802122021090824012022100824012022110831012022130102806STDSTD30080101202231080112202135020238049.85TL04T0220213NOT DISCLOSED04020705011080818102021090806012022100806012022110831012022130102812STDSTDSTDSTD30080101202231080110202135020238049.85TL04T0230213NOT DISCLOSED04020705011080828092021090818102021100818102021110831102021130102806STDSTD30080110202131080109202135020238049.85TL04T0240213NOT DISCLOSED04020705011080810092021090816032022100816032022110831032022130102821STDSTDSTDSTDSTDSTDSTD30080103202231080109202135020238049.854006151000TL04T0250213NOT DISCLOSED04020705011080812082020090810092021100810092021110830092021130102842STDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTD30080109202131080108202035020238049.104006163000TL04T0260213NOT DISCLOSED04020705011080811052020090812082020100812082020110831082020120547500130102812STDSTDSTDSTD300801082020310801052020350202380513.50TL04T0270213NOT DISCLOSED04020705011080814012020090812082020100812082020110831082020120527500130102824STDSTDSTDSTDSTDSTDSTDSTD300801082020310801012020350202380512.50TL04T0280213NOT DISCLOSED04020705011080813012020090812082020100812082020110831082020120533000130102824STDSTDSTDSTDSTDSTDSTDSTD300801082020310801012020350202380512.50TL04T0290213NOT DISCLOSED04020705011080826112019090812082020100812082020110831082020120516500130102830STDSTDSTDSTDSTDSTDSTDSTDSTDSTD300801082020310801112019350202380512.50TL04T0300213NOT DISCLOSED0402070501108082910201909081301202010081301202011083101202012046500130102812STDSTDSTDSTD300801012020310801102019350202380512.50TL04T0310213NOT DISCLOSED04020705011080825102019090826112019100826112019110830112019120521500130102806STDSTD300801112019310801102019350202380512.50TL04T0320213NOT DISCLOSED04020705011080824102019090811052020100811052020110831052020120543500130102824STDSTDSTDSTDSTDSTDSTDSTD300801052020310801102019350202380512.50TL04T0330213NOT DISCLOSED04020705011080818092019090825102019100825102019110831102019120520000130102806STDSTD300801102019310801092019350202380512.50TL04T0340213NOT DISCLOSED04020705011080820082019090813012020100813012020110831012020120557000130102818STDSTDSTDSTDSTDSTD300801012020310801082019350202380512.50TL04T0350213NOT DISCLOSED04020705011080815072019090829102019100829102019110831102019120517000130102812STDSTDSTDSTD300801102019310801072019350202380512.50TL04T0360213NOT DISCLOSED04020705011080812072019090815072019100815072019110831072019120533000130102803STD300801072019310801072019350202TL04T0370213NOT DISCLOSED0402070501108081306201909081301202010081301202011083101202012046500130102824STDSTDSTDSTDSTDSTDSTDSTD300801012020310801062019350202380512.50TL04T0380213NOT DISCLOSED04020705011080810062019090820082019100820082019110831082019120551200130102809STDSTDSTD300801082019310801062019350202380512.50TL04T0390213NOT DISCLOSED04020705011080801062019090825102019100825102019110831102019120514000130102815STDSTDSTDSTDSTD300801102019310801062019350202380512.50TL04T0400213NOT DISCLOSED04020705011080803052019090807052019100807052019110831052019120513500130102803STD300801052019310801052019TL04T0410213NOT DISCLOSED04020705011080814032019090810062019100810062019110830062019120567000130102812STDSTDSTDSTD300801062019310801032019TL04T0420213NOT DISCLOSED04020705011080807032019090812072019100812072019110831072019120511900130102815STDSTDSTDSTDSTD300801072019310801032019350202380512.50TL04T0430213NOT DISCLOSED04020705011080802022019090814032019100814032019110831032019120526000130102806STDSTD300801032019310801022019TL04T0440213NOT DISCLOSED0402070501108083101201909080203201910080203201911083103201912048800130102809STDSTDSTD300801032019310801012019TL04T0450213NOT DISCLOSED04020705011080807012019090818092019100818092019110830092019120513000130102827STDSTDSTDSTDSTDSTDSTDSTDSTD300801092019310801012019350202380512.50TL04T0460213NOT DISCLOSED04020705011080812122018090807012019100807012019110831012019120522000130102806STDSTD300801012019310801122018TL04T0470213NOT DISCLOSED04020705011080826112018090814032019100814032019110831032019120517000130102815STDSTDSTDSTDSTD300801032019310801112018TL04T0480213NOT DISCLOSED04020705011080826102018090802022019100802022019110828022019120529500130102815STDSTDSTDSTDSTD300801022019310801102018TL04T0490213NOT DISCLOSED04020705011080820102018090812122018100812122018110831122018120555000130102809STDSTDSTD300801122018310801102018TL04T0500213NOT DISCLOSED04020705011080820102018090814032019100814032019110831032019120514500130102818STDSTDSTDSTDSTDSTD300801032019310801102018TL04T0510213NOT DISCLOSED04020705011080802072018090820102018100820102018110831102018120577500130102812STDSTDSTDSTD300801102018310801072018TL04T0520213NOT DISCLOSED04020705011080822062018090802072018100802072018110831072018120512000130102806STDSTD300801072018310801062018TL04T0530213NOT DISCLOSED04020705011080817052018090806062018100806062018110830062018120521200130102806STDSTD300801062018310801052018TL04T0540213NOT DISCLOSED04020705011080814052018090817052018100817052018110831052018120545000130102803STD300801052018310801052018TL04T0550213NOT DISCLOSED04020705011080805052018090817052018100817052018110831052018120510000130102803STD300801052018310801052018TL04T0560213NOT DISCLOSED04020705011080831012018090826042018100826042018110830042018120515000130102803STD300801042018310801042018TL04T0570213NOT DISCLOSED04020705011080823082017090811062018100811062018110830062018120530000130102809STDSTDSTD300801062018310801042018TL04T0580213NOT DISCLOSED04020705011080823082017090811062018100811062018110830062018120526600130102809STDSTDSTD300801062018310801042018TL04T0590213NOT DISCLOSED04020705011080823082017090811062018100811062018110830062018120516400130102809STDSTDSTD300801062018310801042018IQ04I0010108260220240413NOT DISCLOSED05020506011IQ04I0020108130520230413NOT DISCLOSED050206060525000IQ04I0030108120520230413NOT DISCLOSED050206060514499IQ04I0040108120520230413NOT DISCLOSED050206060550000IQ04I0050108220520220410DMIFINANCE050200060550000ES0700100300102**\u0013"
+}

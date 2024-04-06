@@ -1,0 +1,417 @@
+Bureau Thin:-
+{
+  "JSON-RESPONSE-OBJECT": {
+    "addressList": [
+      {
+        "addressLine1": "130/570",
+        "addressLine2": "AZAD NAGAR",
+        "addressLine3": "KANPUR UP",
+        "addressLine4": "KANPUR NAGAR",
+        "stateCode": "09",
+        "pinCode": "208203",
+        "addressCategory": "04",
+        "dateReported": "31082021"
+      }
+    ],
+    "enquiryList": [
+      {
+        "dateReported": "15022024",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "4000"
+      },
+      {
+        "dateReported": "15022024",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "5000"
+      }
+    ],
+    "accountList": [
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "51",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "09082023",
+        "dateReportedAndCertified": "29022024",
+        "highCreditOrSanctionedAmount": "20000",
+        "currentBalance": "8975",
+        "paymentHistory1": "STD",
+        "paymentHistoryStartDate": "01022024",
+        "paymentHistoryEndDate": "01022024",
+        "rateOfInterest": "12.00",
+        "repaymentTenure": "18",
+        "emiAmount": "1224",
+        "paymentFrequence": "03"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "52",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "13082021",
+        "dateOfLastPayment": "16062022",
+        "dateClosed": "05092022",
+        "dateReportedAndCertified": "30092022",
+        "highCreditOrSanctionedAmount": "10000",
+        "currentBalance": "0",
+        "paymentHistory1": "STDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTD",
+        "paymentHistoryStartDate": "01092022",
+        "paymentHistoryEndDate": "01082021",
+        "rateOfInterest": "10.00",
+        "repaymentTenure": "12",
+        "emiAmount": "968",
+        "paymentFrequence": "03"
+      }
+    ],
+    "name": {
+      "name1": "DEEPAK",
+      "name2": "KUMAR",
+      "name3": "GUPTA",
+      "dob": "02011988",
+      "gender": "2"
+    },
+    "idList": [
+      {
+        "idType": "01",
+        "idValue": "CMFPG4886F"
+      },
+      {
+        "idType": "03",
+        "idValue": "TLO0953729"
+      }
+    ],
+    "header": {
+      "version": "12",
+      "memberReferenceNumber": " 0000NB66831003_",
+      "enquiryMemberUserID": "NB66831003_CIRC2C ",
+      "subjectReturnCode": "1",
+      "enquiryControlNumber": "007400407719",
+      "dateProceed": "05042024",
+      "timeProceed": "141936"
+    },
+    "scoreList": [
+      {
+        "scoreName": "CIBILTUSC3",
+        "scoreCardName": "08",
+        "scoreCardVersion": "10",
+        "scoreDate": "05042024",
+        "score": "00758"
+      }
+    ]
+  },
+  "BUREAU": "CIBIL",
+  "TRACKING-ID": 58322332,
+  "PRODUCT": "CIR",
+  "STATUS": "SUCCESS",
+  "BUREAU-STRING": "TUEF12 0000NB66831003_CIRC2C 100740040771905042024141936PN03N010106DEEPAK0205KUMAR0305GUPTA07080201198808012ID03I010102010210CMFPG4886FID03I020102030210TLO0953729SC10CIBILTUSC3010208020210030805042024040500758PA03A010107130/5700210AZAD NAGAR0309KANPUR UP0412KANPUR NAGAR0602090706208203080204100831082021TL04T0010213NOT DISCLOSED04025105011080809082023110829022024120520000130489752803STD300801022024310801022024380512.0039021840041224440203TL04T0020213NOT DISCLOSED04025205011080813082021090816062022100805092022110830092022120510000130102842STDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTDSTD300801092022310801082021380510.003902124003968440203IQ04I0010108150220240413NOT DISCLOSED05020506044000IQ04I0020108150220240413NOT DISCLOSED05020506045000ES0700007940102**\u0013"
+}
+========================================================================================================================================================================================================================================================================================
+{
+  "JSON-RESPONSE-OBJECT": {
+    "addressList": [
+      {
+        "addressLine1": "SUJAGANJ OAD, SAVRAV STORE, ANAND KATRA",
+        "addressLine2": "NEW MARKET, JAGDISHPUR, BHAGALPUR CITY,",
+        "addressLine3": "BHAGALPUR, BHAGALPUR, BIHAR, 812002",
+        "stateCode": "10",
+        "pinCode": "812002",
+        "addressCategory": "01",
+        "dateReported": "30112021"
+      },
+      {
+        "addressLine1": "ANAND KATRA NEW MARKET SHOP NO R23E BASE",
+        "addressLine2": "VARITY CHOWK SUJAGANJ BAZAR ROAD",
+        "addressLine3": "NEAR AAMRANTAN HOTEL",
+        "stateCode": "10",
+        "pinCode": "812002",
+        "addressCategory": "01",
+        "dateReported": "30042019"
+      }
+    ],
+    "enquiryList": [
+      {
+        "dateReported": "02032024",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "40",
+        "enquiryAmount": "50000"
+      },
+      {
+        "dateReported": "01032024",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "100000"
+      },
+      {
+        "dateReported": "29022024",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "06",
+        "enquiryAmount": "2500000"
+      },
+      {
+        "dateReported": "23022024",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "10",
+        "enquiryAmount": "50000"
+      },
+      {
+        "dateReported": "17072023",
+        "reportingMemberShortName": "DMIFINANCE",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "50000"
+      },
+      {
+        "dateReported": "17072023",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "5000"
+      },
+      {
+        "dateReported": "20032023",
+        "reportingMemberShortName": "DMIFINANCE",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "50000"
+      },
+      {
+        "dateReported": "27012023",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "25000"
+      },
+      {
+        "dateReported": "28112022",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "10",
+        "enquiryAmount": "1000"
+      },
+      {
+        "dateReported": "09032022",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "10",
+        "enquiryAmount": "10000"
+      },
+      {
+        "dateReported": "21022022",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "06",
+        "enquiryAmount": "50000"
+      }
+    ],
+    "accountList": [
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "69",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "20072022",
+        "dateOfLastPayment": "01042023",
+        "dateClosed": "02042023",
+        "dateReportedAndCertified": "29022024",
+        "highCreditOrSanctionedAmount": "17500",
+        "currentBalance": "0",
+        "paymentHistory1": "000000000000000000000000000000000000000000000000000000",
+        "paymentHistory2": "000",
+        "paymentHistoryStartDate": "01022024",
+        "paymentHistoryEndDate": "01082022"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "51",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "25112021",
+        "dateReportedAndCertified": "31122023",
+        "highCreditOrSanctionedAmount": "55000",
+        "currentBalance": "87",
+        "paymentHistory1": "000000549000000457426396000000000000XXX000000153000092",
+        "paymentHistory2": "000XXX000000000000000000",
+        "paymentHistoryStartDate": "01122023",
+        "paymentHistoryEndDate": "01112021",
+        "CibilRemarksCode": " ",
+        "ErrorRemarksCode1": " ",
+        "ErrorRemarksCode2": " "
+      }
+    ],
+    "phoneList": [
+      {
+        "telephoneNumber": "9576392912",
+        "telephoneType": "00"
+      },
+      {
+        "telephoneNumber": "+919576392912",
+        "telephoneType": "00"
+      },
+      {
+        "telephoneNumber": "8789633901",
+        "telephoneType": "03",
+        "enrichEnquiryForPhone": "Y"
+      },
+      {
+        "telephoneNumber": "8789633901",
+        "telephoneType": "01"
+      }
+    ],
+    "name": {
+      "name1": "GIRIRAJ",
+      "name2": "KUMAR",
+      "name3": "AGRAWAL",
+      "dob": "29101997",
+      "gender": "2"
+    },
+    "idList": [
+      {
+        "idType": "01",
+        "idValue": "BBUPA5622G"
+      },
+      {
+        "idType": "06",
+        "idValue": "XXXXXXXXXXXX",
+        "enrichedThroughtEnquiry": "Y"
+      },
+      {
+        "idType": "EMAIL",
+        "idValue": "GIRIRAJAGRAWAL555@GMAIL.COM"
+      }
+    ],
+    "header": {
+      "version": "12",
+      "memberReferenceNumber": " 0000NB66831003_",
+      "enquiryMemberUserID": "NB66831003_CIRC2C ",
+      "subjectReturnCode": "1",
+      "enquiryControlNumber": "007400406318",
+      "dateProceed": "05042024",
+      "timeProceed": "141921"
+    },
+    "scoreList": [
+      {
+        "scoreName": "CIBILTUSC3",
+        "scoreCardName": "08",
+        "scoreCardVersion": "10",
+        "scoreDate": "05042024",
+        "score": "00682",
+        "reasonCode1": "07",
+        "reasonCode2": "08",
+        "reasonCode3": "01",
+        "reasonCode4": "03"
+      }
+    ]
+  },
+  "BUREAU": "CIBIL",
+  "TRACKING-ID": 58322332,
+  "PRODUCT": "CIR",
+  "STATUS": "SUCCESS",
+  "BUREAU-STRING": "TUEF12 0000NB66831003_CIRC2C 100740040631805042024141921PN03N010107GIRIRAJ0205KUMAR0307AGRAWAL07082910199708012ID03I010102010210BBUPA5622GID03I020102060212XXXXXXXXXXXX9001YPT03T0101109576392912030200PT03T020113+919576392912030200PT03T03011087896339010302039001YPT03T0401108789633901030201EC03C010127GIRIRAJAGRAWAL555@GMAIL.COMSC10CIBILTUSC3010208020210030805042024040500682250207260208270201280203PA03A010139SUJAGANJ OAD, SAVRAV STORE, ANAND KATRA0239NEW MARKET, JAGDISHPUR, BHAGALPUR CITY,0335BHAGALPUR, BHAGALPUR, BIHAR, 8120020602100706812002080201100830112021PA03A020140ANAND KATRA NEW MARKET SHOP NO R23E BASE0232VARITY CHOWK SUJAGANJ BAZAR ROAD0320NEAR AAMRANTAN HOTEL0602100706812002080201100830042019TL04T0010213NOT DISCLOSED040269050110808200720220908010420231008020420231108290220241205175001301028540000000000000000000000000000000000000000000000000000002903000300801022024310801082022TL04T0020213NOT DISCLOSED040251050110808251120211108311220231205550001302872854000000549000000457426396000000000000XXX0000001530000922924000XXX0000000000000000003008011220233108011120218406 8606 8706 IQ04I0010108020320240413NOT DISCLOSED050240060550000IQ04I0020108010320240413NOT DISCLOSED0502050606100000IQ04I0030108290220240413NOT DISCLOSED05020606072500000IQ04I0040108230220240413NOT DISCLOSED050210060550000IQ04I0050108170720230410DMIFINANCE050205060550000IQ04I0060108170720230413NOT DISCLOSED05020506045000IQ04I0070108200320230410DMIFINANCE050205060550000IQ04I0080108270120230413NOT DISCLOSED050205060525000IQ04I0090108281120220413NOT DISCLOSED05021006041000IQ04I0100108090320220413NOT DISCLOSED050210060510000IQ04I0110108210220220413NOT DISCLOSED050206060550000ES0700017320102**\u0013"
+}
+==========================================================================================================================================================================================================================================================================================================
+{
+  "JSON-RESPONSE-OBJECT": {
+    "addressList": [
+      {
+        "addressLine1": "51 FARIDAPUR INAYAT KHAN NAKATIA ROAD",
+        "addressLine2": "BITHRI CHAINPUR BAREILLY BAREILLY",
+        "addressLine3": "UTTAR PRADESH",
+        "stateCode": "09",
+        "pinCode": "243123",
+        "addressCategory": "02",
+        "dateReported": "03052019"
+      }
+    ],
+    "enquiryList": [
+      {
+        "dateReported": "07102022",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "25000"
+      }
+    ],
+    "accountList": [
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "17",
+        "ownershipIndicator": "3",
+        "dateOpenedOrDisbursed": "20082019",
+        "dateOfLastPayment": "08062023",
+        "dateClosed": "11072023",
+        "dateReportedAndCertified": "01102023",
+        "highCreditOrSanctionedAmount": "160000",
+        "currentBalance": "0",
+        "paymentHistory1": "000000XXX000000000000000000000000000000000000000025025",
+        "paymentHistory2": "000000000000000000000000000000055024025022025025027027",
+        "paymentHistoryStartDate": "01102023",
+        "paymentHistoryEndDate": "01112020"
+      },
+      {
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "accountType": "06",
+        "ownershipIndicator": "1",
+        "dateOpenedOrDisbursed": "13042021",
+        "dateOfLastPayment": "15092022",
+        "dateClosed": "15092022",
+        "dateReportedAndCertified": "10102023",
+        "highCreditOrSanctionedAmount": "16490",
+        "currentBalance": "0",
+        "paymentHistory1": "XXX000000000000000000000000000000000000000000000000000",
+        "paymentHistoryStartDate": "01092022",
+        "paymentHistoryEndDate": "01042021",
+        "repaymentTenure": "12",
+        "emiAmount": "1365",
+        "paymentFrequence": "03",
+        "actualPaymentAmount": "1365"
+      }
+    ],
+    "phoneList": [
+      {
+        "telephoneNumber": "8445080379",
+        "telephoneExtention": "91",
+        "telephoneType": "01"
+      }
+    ],
+    "name": {
+      "name1": "DILSHAD HUSSAIN",
+      "dob": "02071997",
+      "gender": "2"
+    },
+    "idList": [
+      {
+        "idType": "01",
+        "idValue": "APHPH0473E"
+      },
+      {
+        "idType": "EMAIL",
+        "idValue": "DILSHADHUSSEINBLY1997@GMAIL.COM"
+      },
+      {
+        "idType": "EMAIL",
+        "idValue": "NULL@GMAIL.COM"
+      }
+    ],
+    "employmentList": [
+      {
+        "accountType": "06",
+        "dateReported": "31082022",
+        "occupationCode": "04"
+      }
+    ],
+    "header": {
+      "version": "12",
+      "memberReferenceNumber": " 0000NB66831003_",
+      "enquiryMemberUserID": "NB66831003_CIRC2C ",
+      "subjectReturnCode": "1",
+      "enquiryControlNumber": "007400404582",
+      "dateProceed": "05042024",
+      "timeProceed": "141903"
+    },
+    "scoreList": [
+      {
+        "scoreName": "CIBILTUSC3",
+        "scoreCardName": "08",
+        "scoreCardVersion": "10",
+        "scoreDate": "05042024",
+        "score": "00757",
+        "reasonCode1": "01"
+      }
+    ]
+  },
+  "BUREAU": "CIBIL",
+  "TRACKING-ID": 58322332,
+  "PRODUCT": "CIR",
+  "STATUS": "SUCCESS",
+  "BUREAU-STRING": "TUEF12 0000NB66831003_CIRC2C 100740040458205042024141903PN03N010115DILSHAD HUSSAIN07080207199708012ID03I010102010210APHPH0473EPT03T0101108445080379020291030201EC03C010131DILSHADHUSSEINBLY1997@GMAIL.COMEC03C020114NULL@GMAIL.COMEM03E01010206020831082022030204SC10CIBILTUSC3010208020210030805042024040500757250201PA03A01013751 FARIDAPUR INAYAT KHAN NAKATIA ROAD0235BITHRI CHAINPUR BAREILLY BAREILLY0313UTTAR PRADESH0602090706243123080202100803052019TL04T0010213NOT DISCLOSED040217050130808200820190908080620231008110720231108011020231206160000130102854000000XXX0000000000000000000000000000000000000000250252954000000000000000000000000000000055024025022025025027027300801102023310801112020TL04T0020213NOT DISCLOSED04020605011080813042021090815092022100815092022110810102023120516490130102854XXX0000000000000000000000000000000000000000000000000003008010920223108010420213902124004136544020345041365IQ04I0010108071020220413NOT DISCLOSED050205060525000ES0700010020102**\u0013"
+}
