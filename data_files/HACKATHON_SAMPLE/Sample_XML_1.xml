@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<faml Id="xXQYyWsi3zX6kU7Qv55Doce92re4mIsr">
+		<header>
+			<extsysname>COAPI</extsysname>
+			<datpost>2024-04-02</datpost>
+			<batchnumext>3</batchnumext>
+			<idtxn>CO_NEI</idtxn>
+			<iduser>APIUSER</iduser>
+			<idcust>177907063</idcust>
+			<groupid>DMIFPLTDCX</groupid>
+			<inqcount>4522</inqcount>
+			<reqdatetime>2024-04-02T11:18:49</reqdatetime>
+			<codstatus>0</codstatus>
+			<txtstatus>SUCCESS</txtstatus>
+			<resdatetime>2024-04-02T11:18:49</resdatetime>
+		</header>
+		<inqlist>
+			<payment>
+				<paymentrefno>0045399182</paymentrefno>
+				<dattxn>2024-04-01</dattxn>
+				<referenceno>N093242963672914</referenceno>
+				<codstatus>P</codstatus>
+				<txtreason>Executed</txtreason>
+			</payment>
+		</inqlist>
+	</faml>
+	<Signature
+		xmlns="http://www.w3.org/2000/09/xmldsig#">
+		<SignedInfo>
+			<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+			<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+			<Reference URI="#xXQYyWsi3zX6kU7Qv55Doce92re4mIsr">
+				<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+				<DigestValue>CvEdpHB20pzSD1tSbtyRfTURd3w5rls2KpMOnornQBo=</DigestValue>
+			</Reference>
+		</SignedInfo>
+		<SignatureValue>bZgEPAUwGQK+1Vk6T04jmzk+dN3WfD6YokKTJawm8ljCf4+fRuEZxENNQ7Vn2ObX98PROSHebsD8&#xD;
+PTxYI+AwE2/DlKYpibF1hTb7bQHv4iKvn1GWsroj+byVbfBcNdRtkTWkovIWp8+7iGTEcbAmPMiG&#xD;
+cLPpIlANpy3fO51cMBR0GGL10VSyxCKy4n0tbVX02bjr8fprNdEOOX1+2hm0vgHAZ9Z5rmrKdUGD&#xD;
+9XZGm6t40U3MfhsiKT1Bk/xBDVx7qBVd8PyeT27FqJFw0HR4Fz+Xi2gcoenDHoqa6eCxQzfOix66&#xD;
+kZIiEYXUmRjGhtn55ZHEJ07HXX5SgG0WfebZvQ==</SignatureValue>
+		<KeyInfo>
+			<X509Data>
+				<X509SubjectName>CN=api.hdfcbank.com,O=Hdfc Bank Limited,L=Mumbai,ST=Maharashtra,C=IN,2.5.4.5=#1306303830363138,2.5.4.15=#0c1450726976617465204f7267616e697a6174696f6e,1.3.6.1.4.1.311.60.2.1.3=#1302494e</X509SubjectName>
+				<X509Certificate>MIIG2DCCBcCgAwIBAgIQDYlipXEDIYJn8Dknt3u68TANBgkqhkiG9w0BAQsFADBhMQswCQYDVQQG&#xD;
+EwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3d3cuZGlnaWNlcnQuY29tMSAw&#xD;
+HgYDVQQDExdHZW9UcnVzdCBFViBSU0EgQ0EgMjAxODAeFw0yMzAzMTYwMDAwMDBaFw0yNDA0MTIy&#xD;
+MzU5NTlaMIGwMRMwEQYLKwYBBAGCNzwCAQMTAklOMR0wGwYDVQQPDBRQcml2YXRlIE9yZ2FuaXph&#xD;
+dGlvbjEPMA0GA1UEBRMGMDgwNjE4MQswCQYDVQQGEwJJTjEUMBIGA1UECBMLTWFoYXJhc2h0cmEx&#xD;
+DzANBgNVBAcTBk11bWJhaTEaMBgGA1UEChMRSGRmYyBCYW5rIExpbWl0ZWQxGTAXBgNVBAMTEGFw&#xD;
+aS5oZGZjYmFuay5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCzCuKu4+TK/yUo&#xD;
+wyvxwAWH4SkkEWZ3NeqdbIe7VualhcnMhkBaB9EsU58rDohgQXpaKEDzIglTmmy20j9AN2VCNd+g&#xD;
+1aDWcD7kYyTAaZx4QWxkNYcAPlCUx2HxYreCTTtaznJG1JQyJ5Jb4kJ/SZezUdT/opMUwmXEARHP&#xD;
+j6nYjwVCgqC5yJxFHJ9bTjS/JkR+B1ubi9It1+x3MhwsVtmzLsI3RkIKdyWfoFzmFsUt/WRQDCIP&#xD;
+dNranUMDsy4ZgdwAuzxbdvSCEDmUPcVZg9eOY2kUPqB02470er05XIVn9OYI7DqNafs4cZ01RNWV&#xD;
+xBWXHv5XnZLhApZYMuEz56wpAgMBAAGjggM6MIIDNjAfBgNVHSMEGDAWgBTKkmdSYd6u/LoiK38c&#xD;
+h0wl+2+ZWDAdBgNVHQ4EFgQUNXCmfUgJYOZRlNyG2vXJ1S16HakwMQYDVR0RBCowKIIQYXBpLmhk&#xD;
+ZmNiYW5rLmNvbYIUd3d3LmFwaS5oZGZjYmFuay5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW&#xD;
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjBABgNVHR8EOTA3MDWgM6Axhi9odHRwOi8vY2RwLmdlb3Ry&#xD;
+dXN0LmNvbS9HZW9UcnVzdEVWUlNBQ0EyMDE4LmNybDBKBgNVHSAEQzBBMAsGCWCGSAGG/WwCATAy&#xD;
+BgVngQwBATApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwdwYIKwYB&#xD;
+BQUHAQEEazBpMCYGCCsGAQUFBzABhhpodHRwOi8vc3RhdHVzLmdlb3RydXN0LmNvbTA/BggrBgEF&#xD;
+BQcwAoYzaHR0cDovL2NhY2VydHMuZ2VvdHJ1c3QuY29tL0dlb1RydXN0RVZSU0FDQTIwMTguY3J0&#xD;
+MAkGA1UdEwQCMAAwggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB2AO7N0GTV2xrOxVy3nbTNE6Iy&#xD;
+h0Z8vOzew1FIWUZxH7WbAAABhuoCR8QAAAQDAEcwRQIgTboE+zlGzXlnmNa638anIXO63aF8Bhkx&#xD;
+XhshvwHq8uYCIQC0VzhNNXWyj0e40J5d7NOiDeuBZXgEkSyRYAOQ+m/2ZwB3AHPZnokbTJZ4oCB9&#xD;
+R53mssYc0FFecRkqjGuAEHrBd3K1AAABhuoCSCgAAAQDAEgwRgIhAMA2sx0mElZu+f//10uqJjNk&#xD;
+CyA55s3NMnr3Ien1NqylAiEA5h9u0f2n/kvvYjXYN6Ak1uvygZKt04n69WDVWxo8aEEAdQBIsONr&#xD;
+2qZHNA/lagL6nTDrHFIBy1bdLIHZu7+rOdiEcwAAAYbqAkf2AAAEAwBGMEQCIBUWYYvt22rozIbE&#xD;
+VxHWkI/3bJwovPcxSRdW4eBcqHDsAiADXJyAuIUtQm1csX/gKmd/rKZp6FqB3SSvD01ffuUPVTAN&#xD;
+BgkqhkiG9w0BAQsFAAOCAQEAXTlwe0go0lWGpceC9L89HsbU/Hwaei9I5WQ4/JOtheZ2IXQFIVMU&#xD;
+yUI9AN56VBdpadiL/jnhXizDa+ePvbvb9QqCWOpVih+v+jkHuZDdHLiqp3hq0REYSPrGqtkpsaZe&#xD;
+S0Ni06leMuaj+Tn2Z6IRO5VlLTQ1SmKHeyUwCiwKXVtrCvRHOTtnvLp+/BRKo4TwbrbRQZp53pmg&#xD;
+XyqIiwzoBVJZYe/ZoMF2Umv+wyXpESwU1amGWYJ3OHLzDbdvbLR9/4T3nJrtxDH9vDXOzBDsLqng&#xD;
+wXhm7NhOBUMEYPuTKMeEQzbV5Cf67Y+ilWZ064DZEXJ24Wh/PZtaBdO+0WTzHw==</X509Certificate>
+			</X509Data>
+		</KeyInfo>
+	</Signature>
+</response>

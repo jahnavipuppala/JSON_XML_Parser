@@ -1,0 +1,448 @@
+Bureau NTC:-
+{
+  "JSON-RESPONSE-OBJECT": {
+    "addressList": [
+      {
+        "addressLine1": "C/O: JAHANGIR KHAN,DSECTOR,LLINE,ROOM,",
+        "addressLine2": "NO826,CHEETA CAMP,TROMBAY,NEAR APNA",
+        "addressLine3": "HOTEL",
+        "stateCode": "27",
+        "pinCode": "400088",
+        "addressCategory": "02",
+        "dateReported": "05042024",
+        "enrichedThroughtEnquiry": "Y"
+      }
+    ],
+    "name": {
+      "name1": "KAJAL BILAL LAMBE",
+      "dob": "25101998",
+      "gender": "1"
+    },
+    "idList": [
+      {
+        "idType": "01",
+        "idValue": "KVTPK1963E",
+        "enrichedThroughtEnquiry": "Y"
+      }
+    ],
+    "header": {
+      "version": "12",
+      "memberReferenceNumber": " 0000NB66831003_",
+      "enquiryMemberUserID": "NB66831003_CIRC2C ",
+      "subjectReturnCode": "0",
+      "enquiryControlNumber": "007400403854",
+      "dateProceed": "05042024",
+      "timeProceed": "141855"
+    },
+    "scoreList": [
+      {
+        "scoreName": "CIBILTUSC3",
+        "scoreCardName": "08",
+        "scoreCardVersion": "10",
+        "scoreDate": "05042024",
+        "score": "000-1"
+      }
+    ]
+  },
+  "BUREAU": "CIBIL",
+  "TRACKING-ID": 58322332,
+  "PRODUCT": "CIR",
+  "STATUS": "SUCCESS",
+  "BUREAU-STRING": "TUEF12 0000NB66831003_CIRC2C 000740040385405042024141855PN03N010117KAJAL BILAL LAMBE07082510199808011ID03I010102010210KVTPK1963E9001YSC10CIBILTUSC30102080202100308050420240405000-1PA03A010138C/O: JAHANGIR KHAN,DSECTOR,LLINE,ROOM,0235NO826,CHEETA CAMP,TROMBAY,NEAR APNA0305HOTEL06022707064000880802021008050420249001YES0700003710102**\u0013"
+}
+
+===================================================================================================================================================================================================================================================================
+{
+  "JSON-RESPONSE-OBJECT": {
+    "addressList": [
+      {
+        "addressLine1": "JYOTIBA PHULE NAGAR",
+        "addressLine5": "JYOTIBA PHULE NAGAR",
+        "stateCode": "09",
+        "pinCode": "244251",
+        "addressCategory": "01",
+        "residenceCode": "02",
+        "dateReported": "06062022",
+        "enrichedThroughtEnquiry": "Y"
+      },
+      {
+        "addressLine1": "103MANDI DHANORA AMROHA",
+        "addressLine2": "VILLAGE FULADPUR POST KAURAL DISTRICT AM",
+        "addressLine3": "MEERUT",
+        "stateCode": "09",
+        "pinCode": "250001",
+        "addressCategory": "02",
+        "dateReported": "04032020",
+        "enrichedThroughtEnquiry": "Y"
+      },
+      {
+        "addressLine1": "MEERUT",
+        "stateCode": "09",
+        "pinCode": "250001",
+        "addressCategory": "03",
+        "dateReported": "04032020",
+        "enrichedThroughtEnquiry": "Y"
+      }
+    ],
+    "enquiryList": [
+      {
+        "dateReported": "01092023",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "06",
+        "enquiryAmount": "20000"
+      },
+      {
+        "dateReported": "30052023",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "36",
+        "enquiryAmount": "100000"
+      },
+      {
+        "dateReported": "16112022",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "25000"
+      },
+      {
+        "dateReported": "03102022",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "25000"
+      },
+      {
+        "dateReported": "06062022",
+        "reportingMemberShortName": "NOT DISCLOSED",
+        "enquiryPurpose": "05",
+        "enquiryAmount": "200000"
+      }
+    ],
+    "phoneList": [
+      {
+        "telephoneNumber": "8126472840",
+        "telephoneType": "01",
+        "enrichEnquiryForPhone": "Y"
+      }
+    ],
+    "name": {
+      "name1": "DEEPAK",
+      "name3": "KUMAR",
+      "dob": "15081990",
+      "gender": "2"
+    },
+    "idList": [
+      {
+        "idType": "01",
+        "idValue": "GZZPK0743Q",
+        "enrichedThroughtEnquiry": "Y"
+      }
+    ],
+    "header": {
+      "version": "12",
+      "memberReferenceNumber": " 0000NB66831003_",
+      "enquiryMemberUserID": "NB66831003_CIRC2C ",
+      "subjectReturnCode": "1",
+      "enquiryControlNumber": "007400373448",
+      "dateProceed": "05042024",
+      "timeProceed": "141342"
+    },
+    "scoreList": [
+      {
+        "scoreName": "CIBILTUSC3",
+        "scoreCardName": "08",
+        "scoreCardVersion": "10",
+        "scoreDate": "05042024",
+        "score": "000-1"
+      }
+    ]
+  },
+  "BUREAU": "CIBIL",
+  "TRACKING-ID": 58322332,
+  "PRODUCT": "CIR",
+  "STATUS": "SUCCESS",
+  "BUREAU-STRING": "TUEF12 0000NB66831003_CIRC2C 100740037344805042024141342PN03N010106DEEPAK0305KUMAR07081508199008012ID03I010102010210GZZPK0743Q9001YPT03T01011081264728400302019001YSC10CIBILTUSC30102080202100308050420240405000-1PA03A010119JYOTIBA PHULE NAGAR0519JYOTIBA PHULE NAGAR06020907062442510802010902021008060620229001YPA03A020123103MANDI DHANORA AMROHA0240VILLAGE FULADPUR POST KAURAL DISTRICT AM0306MEERUT06020907062500010802021008040320209001YPA03A030106MEERUT06020907062500010802031008040320209001YIQ04I0010108010920230413NOT DISCLOSED050206060520000IQ04I0020108300520230413NOT DISCLOSED0502360606100000IQ04I0030108161120220413NOT DISCLOSED050205060525000IQ04I0040108031020220413NOT DISCLOSED050205060525000IQ04I0050108060620220413NOT DISCLOSED0502050606200000ES0700008080102**\u0013"
+}
+
+==========================================================================================================================================================================================================================================
+
+{
+  "JSON-RESPONSE-OBJECT": {
+    "addressList": [
+      {
+        "addressLine1": "NEAR JANI THANA,BHOOPGARHI ROAD, MEERUT,",
+        "addressLine2": "MEERUT DIVISION",
+        "stateCode": "09",
+        "pinCode": "250501",
+        "addressCategory": "02",
+        "dateReported": "05042024",
+        "enrichedThroughtEnquiry": "Y"
+      }
+    ],
+    "name": {
+      "name1": "MOHIN KHAN",
+      "dob": "01072000",
+      "gender": "2"
+    },
+    "idList": [
+      {
+        "idType": "01",
+        "idValue": "IOTPK6681C",
+        "enrichedThroughtEnquiry": "Y"
+      }
+    ],
+    "header": {
+      "version": "12",
+      "memberReferenceNumber": " 0000NB66831003_",
+      "enquiryMemberUserID": "NB66831003_CIRC2C ",
+      "subjectReturnCode": "0",
+      "enquiryControlNumber": "007400400754",
+      "dateProceed": "05042024",
+      "timeProceed": "141825"
+    },
+    "scoreList": [
+      {
+        "scoreName": "CIBILTUSC3",
+        "scoreCardName": "08",
+        "scoreCardVersion": "10",
+        "scoreDate": "05042024",
+        "score": "000-1"
+      }
+    ]
+  },
+  "BUREAU": "CIBIL",
+  "TRACKING-ID": 58322332,
+  "PRODUCT": "CIR",
+  "STATUS": "SUCCESS",
+  "BUREAU-STRING": "TUEF12 0000NB66831003_CIRC2C 000740040075405042024141825PN03N010110MOHIN KHAN07080107200008012ID03I010102010210IOTPK6681C9001YSC10CIBILTUSC30102080202100308050420240405000-1PA03A010140NEAR JANI THANA,BHOOPGARHI ROAD, MEERUT,0215MEERUT DIVISION06020907062505010802021008050420249001YES0700003370102**\u0013"
+}
+
+===================================================================================================================================================================================================================================================================================================================================================
+
+Karza:-
+
+Pan+Mobile Verification:-
+{
+  "result": {
+    "email": {
+      "additionalInfo": {
+        "companyInfo": {
+          "orgDomainMatch": [
+            {
+              "domain": "karza.in",
+              "match": true,
+              "orgName": "KARZA TECHNOLOGIES PRIVATE LIMITED",
+              "source": "mca, epf, gst"
+            }
+          ],
+          "orgEmailMatch": [
+            {
+              "companyEmail": "omkar@karza.in",
+              "match": false,
+              "orgName": "KARZA TECHNOLOGIES PRIVATE LIMITED",
+              "source": "mca"
+            },
+            {
+              "companyEmail": "ankit.s@karza.in",
+              "match": false,
+              "orgName": "KARZA TECHNOLOGIES PRIVATE LIMITED",
+              "source": "epf"
+            }
+          ],
+          "usrDirectorMatch": [
+            {
+              "match": false,
+              "name": "",
+              "orgName": "KARZA TECHNOLOGIES PRIVATE LIMITED",
+              "score": 0
+            }
+          ]
+        },
+        "individualMatch": [
+          {
+            "match": false,
+            "name": "sawrnava m",
+            "score": 0.80555555555555
+          }
+        ],
+        "spamRecord": {
+          "spamEmail": false,
+          "reportCount": 0,
+          "ipBlacklist": false
+        },
+        "whoisInfo": {
+          "ageYear": 8.5,
+          "creationDate": "2015-02-11 09:29:49",
+          "expirationDate": "2024-02-11 09:29:49",
+          "updateDate": "2023-02-14 17:49:53",
+          "expired": false,
+          "whoisEmailDomainMatch": [],
+          "whoisEmailMatch": [],
+          "whoisIndvName": [],
+          "whoisOrgName": [
+            {
+              "match": true,
+              "orgName": "KARZA TECHNOLOGIES PRIVATE LIMITED",
+              "score": 1
+            }
+          ]
+        }
+      },
+      "data": {
+        "acceptAll": false,
+        "disposable": false,
+        "email": "sawrnava.m@karza.in",
+        "genericEmail": false,
+        "mxRecords": true,
+        "regexp": true,
+        "result": true,
+        "smtpCheck": false,
+        "webmail": false
+      },
+      "result": true
+    },
+    "nameLookup": {
+      "organizationName": "Karza Technologies Private Limited",
+      "epfHistory": [
+        {
+          "totalAmount": 1189150,
+          "totalMembers": 299,
+          "formatted_wage_month": "2306",
+          "wageMonth": "JUN-23"
+        },
+        {
+          "totalAmount": 1204150,
+          "totalMembers": 303,
+          "formatted_wage_month": "2305",
+          "wageMonth": "MAY-23"
+        },
+        {
+          "totalAmount": 1233356,
+          "totalMembers": 311,
+          "formatted_wage_month": "2304",
+          "wageMonth": "APR-23"
+        }
+      ],
+      "estInfo": [
+        {
+          "address": "1302, Orchid, Bg Kher Road Campacola Compound",
+          "contactNo": "8169584238",
+          "emailId": "ankit.s@karza.in",
+          "estId": "MHBANxxxxxxxxxx"
+        }
+      ],
+      "matches": [
+        {
+          "name": "SWARNAVA MAITRA",
+          "confidence": 1,
+          "estId": " MHBANxxxxxxxxxx",
+          "epfHistory": {
+            "JUN-23": true,
+            "MAY-23": true,
+            "APR-23": true
+          }
+        }
+      ],
+      "isNameExact": true,
+      "isEmployed": true,
+      "isRecent": true,
+      "isNameUnique": true,
+      "employeeName": "SWARNAVA MAITRA"
+    },
+    "uan": [
+      {
+        "uan": "10xxxxxxxxxx",
+        "uanSource": "pan",
+        "employer": [
+          {
+            "name": "Karza Technologies Private Limited",
+            "memberId": "MHBANxxxxxxxxxxxxxxxxx",
+            "settled": null,
+            "dateOfExit": null,
+            "dateOfJoining": "2017-10-16",
+            "lastMonthYear": "",
+            "startMonthYear": "10-2017",
+            "employmentPeriod": null,
+            "isNameUnique": true,
+            "matchName": "SWARNAVA MAITRA",
+            "lastMonth": "2306",
+            "isRecent": true,
+            "isNameExact": true,
+            "isEmployed": true,
+            "nameConfidence": 1,
+            "emplrScore": 1,
+            "uanNameMatch": true
+          },
+          {
+            "name": "INDUS VALLEY PARTNERS (INDIA) PVT LTD",
+            "memberId": "DSNHPxxxxxxxxxxxxxxxxx",
+            "settled": null,
+            "dateOfExit": "2017-10-06",
+            "dateOfJoining": "2013-06-24",
+            "lastMonthYear": "10-2017",
+            "startMonthYear": "06-2013",
+            "employmentPeriod": 53,
+            "isNameUnique": false,
+            "matchName": null,
+            "lastMonth": "1710",
+            "isRecent": false,
+            "isNameExact": false,
+            "isEmployed": false,
+            "nameConfidence": null,
+            "emplrScore": 0.3687667184450832,
+            "uanNameMatch": true
+          }
+        ],
+        "failures": []
+      }
+    ],
+    "personalInfo": {
+      "name": "SWARNAVA MAITRA",
+      "dateOfBirth": "1993-11-03",
+      "gender": "M",
+      "fatherHusbandName": "SANJEEV MAITRA",
+      "relation": "FATHER",
+      "nationality": "INDIAN",
+      "maritalStatus": "UN-MARRIED",
+      "qualification": "GRADUATE",
+      "mobileNumber": "93xxxxxxxx",
+      "emailId": "swarnavamaitra@gmail.com",
+      "pan": "DFKxxxx95K",
+      "passport": null,
+      "uan": "10xxxxxxxxxx"
+    },
+    "summary": {
+      "emailParameters": {
+        "isValid": true,
+        "person": {
+          "match": true,
+          "matchScore": 0.80555555555555
+        },
+        "organization": {
+          "match": true,
+          "orgName": "KARZA TECHNOLOGIES PRIVATE LIMITED"
+        },
+        "alerts": false
+      },
+      "emailValid": true,
+      "nameLookup": {
+        "matchName": "SWARNAVA MAITRA",
+        "isUnique": true,
+        "isLatest": true,
+        "result": true
+      },
+      "uanLookup": {
+        "currentEmployer": "Karza Technologies Private Limited",
+        "matchScore": 1,
+        "result": true,
+        "uanNameMatch": true
+      },
+      "waiveFi": true
+    },
+    "failures": [],
+    "pdfLink": ""
+  },
+  "request_id": "1a06cb30-9dad-41f2-8a05-7cf92504263d",
+  "status-code": "101",
+  "clientData": {
+    "caseId": "123456"
+  }
+}

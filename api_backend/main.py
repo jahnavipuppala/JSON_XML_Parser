@@ -12,7 +12,7 @@ app = FastAPI()
 URL_CLIENT = "mongodb://localhost:27017/"
 CLIENT = MongoClient(URL_CLIENT,  server_api=ServerApi('1'))
 
-DB_NAME = "hack_testing_2"
+DB_NAME = "dmi_testing"
 DB = CLIENT[DB_NAME]
 
 def insert_one_in_mongo_db(parsed_data, collection_name, db = DB):
@@ -40,7 +40,7 @@ def recursive_configuration(parsed_data, metadata_tables, base_table):
     for key, values in parsed_data.items():
         if key in metadata_tables["ONE_TO_ONE"]:
             recursive_configuration(add_parent_id(values, random_id), metadata_tables, key)
-        if key in metadata_tables["ONE_TO_MANY"]:
+        elif key in metadata_tables["ONE_TO_MANY"]:
             for child in values:
                 recursive_configuration(add_parent_id(child, random_id), metadata_tables, key)
         else:
